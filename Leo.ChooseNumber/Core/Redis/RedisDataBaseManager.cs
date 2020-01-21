@@ -19,9 +19,8 @@ namespace Leo.ChooseNumber.Core.Redis
                 {
                     if (_connectionMultiplexer == null)
                     {
-                        //"47.95.1.23:6379,password=youqianren"
                         //todo redis settings "ip:port,password=password"
-                        _connectionMultiplexer = ConnectionMultiplexer.Connect("47.95.1.23:6379,password=youqianren");
+                        _connectionMultiplexer = ConnectionMultiplexer.Connect("ip:port,password=password");
                     }
 
                     return _connectionMultiplexer;
