@@ -1,0 +1,348 @@
+{
+    "code": 0,
+    "msg": "操作成功",
+    "data": [
+        {
+            "extend": "haikou",
+            "city_name": "海口",
+            "province_id": 898,
+            "towns": [
+                {
+                    "province_id": 898,
+                    "town_id": 460101,
+                    "town_name": "海口市",
+                    "weight": 460101,
+                    "shortname": null,
+                    "city_id": 898
+                }
+            ],
+            "weight": 460100,
+            "region3_city_id": 460100,
+            "shortname": null,
+            "city_id": 898
+        },
+        {
+            "extend": "sanya",
+            "city_name": "三亚",
+            "province_id": 898,
+            "towns": [
+                {
+                    "province_id": 898,
+                    "town_id": 460201,
+                    "town_name": "三亚市",
+                    "weight": 460201,
+                    "shortname": null,
+                    "city_id": 721
+                }
+            ],
+            "weight": 460200,
+            "region3_city_id": 460200,
+            "shortname": null,
+            "city_id": 721
+        },
+        {
+            "extend": "wanningshi",
+            "city_name": "万宁市",
+            "province_id": 898,
+            "towns": [
+                {
+                    "province_id": 898,
+                    "town_id": 460301,
+                    "town_name": "万宁市",
+                    "weight": 460301,
+                    "shortname": null,
+                    "city_id": 988
+                }
+            ],
+            "weight": 460300,
+            "region3_city_id": 460300,
+            "shortname": null,
+            "city_id": 988
+        },
+        {
+            "extend": "dongfangshi",
+            "city_name": "东方市",
+            "province_id": 898,
+            "towns": [
+                {
+                    "province_id": 898,
+                    "town_id": 460401,
+                    "town_name": "东方市",
+                    "weight": 460401,
+                    "shortname": null,
+                    "city_id": 989
+                }
+            ],
+            "weight": 460400,
+            "region3_city_id": 460400,
+            "shortname": null,
+            "city_id": 989
+        },
+        {
+            "extend": "ledongxian",
+            "city_name": "乐东县",
+            "province_id": 898,
+            "towns": [
+                {
+                    "province_id": 898,
+                    "town_id": 460501,
+                    "town_name": "乐东县",
+                    "weight": 460501,
+                    "shortname": null,
+                    "city_id": 983
+                }
+            ],
+            "weight": 460500,
+            "region3_city_id": 460500,
+            "shortname": null,
+            "city_id": 983
+        },
+        {
+            "extend": "wuzhishanshi",
+            "city_name": "五指山市",
+            "province_id": 898,
+            "towns": [
+                {
+                    "province_id": 898,
+                    "town_id": 460601,
+                    "town_name": "五指山市",
+                    "weight": 460601,
+                    "shortname": null,
+                    "city_id": 899
+                }
+            ],
+            "weight": 460600,
+            "region3_city_id": 460600,
+            "shortname": null,
+            "city_id": 899
+        },
+        {
+            "extend": "baotingxian",
+            "city_name": "保亭县",
+            "province_id": 898,
+            "towns": [
+                {
+                    "province_id": 898,
+                    "town_id": 460701,
+                    "town_name": "保亭县",
+                    "weight": 460701,
+                    "shortname": null,
+                    "city_id": 985
+                }
+            ],
+            "weight": 460700,
+            "region3_city_id": 460700,
+            "shortname": null,
+            "city_id": 985
+        },
+        {
+            "extend": "danzhoushi",
+            "city_name": "儋州市",
+            "province_id": 898,
+            "towns": [
+                {
+                    "province_id": 898,
+                    "town_id": 460801,
+                    "town_name": "儋州市",
+                    "weight": 460801,
+                    "shortname": null,
+                    "city_id": 890
+                }
+            ],
+            "weight": 460800,
+            "region3_city_id": 460800,
+            "shortname": null,
+            "city_id": 890
+        },
+        {
+            "extend": "dinganxian",
+            "city_name": "定安县",
+            "province_id": 898,
+            "towns": [
+                {
+                    "province_id": 898,
+                    "town_id": 460901,
+                    "town_name": "定安县",
+                    "weight": 460901,
+                    "shortname": null,
+                    "city_id": 907
+                }
+            ],
+            "weight": 460900,
+            "region3_city_id": 460900,
+            "shortname": null,
+            "city_id": 907
+        },
+        {
+            "extend": "tunchangxian",
+            "city_name": "屯昌县",
+            "province_id": 898,
+            "towns": [
+                {
+                    "province_id": 898,
+                    "town_id": 461001,
+                    "town_name": "屯昌县",
+                    "weight": 461001,
+                    "shortname": null,
+                    "city_id": 889
+                }
+            ],
+            "weight": 461000,
+            "region3_city_id": 461000,
+            "shortname": null,
+            "city_id": 889
+        },
+        {
+            "extend": "wenchangshi",
+            "city_name": "文昌市",
+            "province_id": 898,
+            "towns": [
+                {
+                    "province_id": 898,
+                    "town_id": 461101,
+                    "town_name": "文昌市",
+                    "weight": 461101,
+                    "shortname": null,
+                    "city_id": 900
+                }
+            ],
+            "weight": 461100,
+            "region3_city_id": 461100,
+            "shortname": null,
+            "city_id": 900
+        },
+        {
+            "extend": "changjiangxian",
+            "city_name": "昌江县",
+            "province_id": 898,
+            "towns": [
+                {
+                    "province_id": 898,
+                    "town_id": 461201,
+                    "town_name": "昌江县",
+                    "weight": 461201,
+                    "shortname": null,
+                    "city_id": 982
+                }
+            ],
+            "weight": 461200,
+            "region3_city_id": 461200,
+            "shortname": null,
+            "city_id": 982
+        },
+        {
+            "extend": "chengmaixian",
+            "city_name": "澄迈县",
+            "province_id": 898,
+            "towns": [
+                {
+                    "province_id": 898,
+                    "town_id": 461301,
+                    "town_name": "澄迈县",
+                    "weight": 461301,
+                    "shortname": null,
+                    "city_id": 904
+                }
+            ],
+            "weight": 461300,
+            "region3_city_id": 461300,
+            "shortname": null,
+            "city_id": 904
+        },
+        {
+            "extend": "qiongzhongxian",
+            "city_name": "琼中县",
+            "province_id": 898,
+            "towns": [
+                {
+                    "province_id": 898,
+                    "town_id": 461401,
+                    "town_name": "琼中县",
+                    "weight": 461401,
+                    "shortname": null,
+                    "city_id": 986
+                }
+            ],
+            "weight": 461400,
+            "region3_city_id": 461400,
+            "shortname": null,
+            "city_id": 986
+        },
+        {
+            "extend": "qionghaishi",
+            "city_name": "琼海市",
+            "province_id": 898,
+            "towns": [
+                {
+                    "province_id": 898,
+                    "town_id": 461501,
+                    "town_name": "琼海市",
+                    "weight": 461501,
+                    "shortname": null,
+                    "city_id": 905
+                }
+            ],
+            "weight": 461500,
+            "region3_city_id": 461500,
+            "shortname": null,
+            "city_id": 905
+        },
+        {
+            "extend": "lingshuixian",
+            "city_name": "陵水县",
+            "province_id": 898,
+            "towns": [
+                {
+                    "province_id": 898,
+                    "town_id": 461601,
+                    "town_name": "陵水县",
+                    "weight": 461601,
+                    "shortname": null,
+                    "city_id": 984
+                }
+            ],
+            "weight": 461600,
+            "region3_city_id": 461600,
+            "shortname": null,
+            "city_id": 984
+        },
+        {
+            "extend": "baishaxian",
+            "city_name": "白沙县",
+            "province_id": 898,
+            "towns": [
+                {
+                    "province_id": 898,
+                    "town_id": 461701,
+                    "town_name": "白沙县",
+                    "weight": 461701,
+                    "shortname": null,
+                    "city_id": 981
+                }
+            ],
+            "weight": 461700,
+            "region3_city_id": 461700,
+            "shortname": null,
+            "city_id": 981
+        },
+        {
+            "extend": "lingaoxian",
+            "city_name": "临高县",
+            "province_id": 898,
+            "towns": [
+                {
+                    "province_id": 898,
+                    "town_id": 461801,
+                    "town_name": "临高县",
+                    "weight": 461801,
+                    "shortname": null,
+                    "city_id": 980
+                }
+            ],
+            "weight": 461800,
+            "region3_city_id": 461800,
+            "shortname": null,
+            "city_id": 980
+        }
+    ]
+}

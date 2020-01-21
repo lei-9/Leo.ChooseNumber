@@ -1,0 +1,449 @@
+{
+    "code": 0,
+    "msg": "操作成功",
+    "data": [
+        {
+            "extend": "xining",
+            "city_name": "西宁",
+            "province_id": 971,
+            "towns": [
+                {
+                    "province_id": 971,
+                    "town_id": 630102,
+                    "town_name": "城东区",
+                    "weight": 630102,
+                    "shortname": null,
+                    "city_id": 971
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 630103,
+                    "town_name": "城中区",
+                    "weight": 630103,
+                    "shortname": null,
+                    "city_id": 971
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 630104,
+                    "town_name": "城西区",
+                    "weight": 630104,
+                    "shortname": null,
+                    "city_id": 971
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 630105,
+                    "town_name": "城北区",
+                    "weight": 630105,
+                    "shortname": null,
+                    "city_id": 971
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 630121,
+                    "town_name": "大通回族土族自治县",
+                    "weight": 630121,
+                    "shortname": null,
+                    "city_id": 971
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 630122,
+                    "town_name": "湟中县",
+                    "weight": 630122,
+                    "shortname": null,
+                    "city_id": 971
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 630123,
+                    "town_name": "湟源县",
+                    "weight": 630123,
+                    "shortname": null,
+                    "city_id": 971
+                }
+            ],
+            "weight": 630100,
+            "region3_city_id": 630100,
+            "shortname": null,
+            "city_id": 971
+        },
+        {
+            "extend": "haidong",
+            "city_name": "海东",
+            "province_id": 971,
+            "towns": [
+                {
+                    "province_id": 971,
+                    "town_id": 632121,
+                    "town_name": "平安县",
+                    "weight": 632121,
+                    "shortname": null,
+                    "city_id": 972
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632122,
+                    "town_name": "民和回族土族自治县",
+                    "weight": 632122,
+                    "shortname": null,
+                    "city_id": 972
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632123,
+                    "town_name": "乐都县",
+                    "weight": 632123,
+                    "shortname": null,
+                    "city_id": 972
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632126,
+                    "town_name": "互助土族自治县",
+                    "weight": 632126,
+                    "shortname": null,
+                    "city_id": 972
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632127,
+                    "town_name": "化隆回族自治县",
+                    "weight": 632127,
+                    "shortname": null,
+                    "city_id": 972
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632128,
+                    "town_name": "循化撒拉族自治县",
+                    "weight": 632128,
+                    "shortname": null,
+                    "city_id": 972
+                }
+            ],
+            "weight": 632100,
+            "region3_city_id": 632100,
+            "shortname": null,
+            "city_id": 972
+        },
+        {
+            "extend": "haibeizangzuzizhizhou",
+            "city_name": "海北藏族自治州",
+            "province_id": 971,
+            "towns": [
+                {
+                    "province_id": 971,
+                    "town_id": 632221,
+                    "town_name": "门源回族自治县",
+                    "weight": 632221,
+                    "shortname": null,
+                    "city_id": 970
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632222,
+                    "town_name": "祁连县",
+                    "weight": 632222,
+                    "shortname": null,
+                    "city_id": 970
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632223,
+                    "town_name": "海晏县",
+                    "weight": 632223,
+                    "shortname": null,
+                    "city_id": 970
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632224,
+                    "town_name": "刚察县",
+                    "weight": 632224,
+                    "shortname": null,
+                    "city_id": 970
+                }
+            ],
+            "weight": 632200,
+            "region3_city_id": 632200,
+            "shortname": "海北",
+            "city_id": 970
+        },
+        {
+            "extend": "huangnanzangzuzizhizhou",
+            "city_name": "黄南藏族自治州",
+            "province_id": 971,
+            "towns": [
+                {
+                    "province_id": 971,
+                    "town_id": 632321,
+                    "town_name": "同仁县",
+                    "weight": 632321,
+                    "shortname": null,
+                    "city_id": 973
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632322,
+                    "town_name": "尖扎县",
+                    "weight": 632322,
+                    "shortname": null,
+                    "city_id": 973
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632323,
+                    "town_name": "泽库县",
+                    "weight": 632323,
+                    "shortname": null,
+                    "city_id": 973
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632324,
+                    "town_name": "河南蒙古族自治县",
+                    "weight": 632324,
+                    "shortname": null,
+                    "city_id": 973
+                }
+            ],
+            "weight": 632300,
+            "region3_city_id": 632300,
+            "shortname": "黄南",
+            "city_id": 973
+        },
+        {
+            "extend": "hainanzangzuzizhizhou",
+            "city_name": "海南藏族自治州",
+            "province_id": 971,
+            "towns": [
+                {
+                    "province_id": 971,
+                    "town_id": 632521,
+                    "town_name": "共和县",
+                    "weight": 632521,
+                    "shortname": null,
+                    "city_id": 974
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632522,
+                    "town_name": "同德县",
+                    "weight": 632522,
+                    "shortname": null,
+                    "city_id": 974
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632523,
+                    "town_name": "贵德县",
+                    "weight": 632523,
+                    "shortname": null,
+                    "city_id": 974
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632524,
+                    "town_name": "兴海县",
+                    "weight": 632524,
+                    "shortname": null,
+                    "city_id": 974
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632525,
+                    "town_name": "贵南县",
+                    "weight": 632525,
+                    "shortname": null,
+                    "city_id": 974
+                }
+            ],
+            "weight": 632500,
+            "region3_city_id": 632500,
+            "shortname": "海南",
+            "city_id": 974
+        },
+        {
+            "extend": "guoluozangzuzizhizhou",
+            "city_name": "果洛藏族自治州",
+            "province_id": 971,
+            "towns": [
+                {
+                    "province_id": 971,
+                    "town_id": 632621,
+                    "town_name": "玛沁县",
+                    "weight": 632621,
+                    "shortname": null,
+                    "city_id": 975
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632622,
+                    "town_name": "班玛县",
+                    "weight": 632622,
+                    "shortname": null,
+                    "city_id": 975
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632623,
+                    "town_name": "甘德县",
+                    "weight": 632623,
+                    "shortname": null,
+                    "city_id": 975
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632624,
+                    "town_name": "达日县",
+                    "weight": 632624,
+                    "shortname": null,
+                    "city_id": 975
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632625,
+                    "town_name": "久治县",
+                    "weight": 632625,
+                    "shortname": null,
+                    "city_id": 975
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632626,
+                    "town_name": "玛多县",
+                    "weight": 632626,
+                    "shortname": null,
+                    "city_id": 975
+                }
+            ],
+            "weight": 632600,
+            "region3_city_id": 632600,
+            "shortname": "果洛",
+            "city_id": 975
+        },
+        {
+            "extend": "yushuzangzuzizhizhou",
+            "city_name": "玉树藏族自治州",
+            "province_id": 971,
+            "towns": [
+                {
+                    "province_id": 971,
+                    "town_id": 632721,
+                    "town_name": "玉树县",
+                    "weight": 632721,
+                    "shortname": null,
+                    "city_id": 976
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632722,
+                    "town_name": "杂多县",
+                    "weight": 632722,
+                    "shortname": null,
+                    "city_id": 976
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632723,
+                    "town_name": "称多县",
+                    "weight": 632723,
+                    "shortname": null,
+                    "city_id": 976
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632724,
+                    "town_name": "治多县",
+                    "weight": 632724,
+                    "shortname": null,
+                    "city_id": 976
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632725,
+                    "town_name": "囊谦县",
+                    "weight": 632725,
+                    "shortname": null,
+                    "city_id": 976
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632726,
+                    "town_name": "曲麻莱县",
+                    "weight": 632726,
+                    "shortname": null,
+                    "city_id": 976
+                }
+            ],
+            "weight": 632700,
+            "region3_city_id": 632700,
+            "shortname": "玉树",
+            "city_id": 976
+        },
+        {
+            "extend": "haiximengguzizhizhou",
+            "city_name": "海西蒙古自治州",
+            "province_id": 971,
+            "towns": [
+                {
+                    "province_id": 971,
+                    "town_id": 632802,
+                    "town_name": "德令哈市",
+                    "weight": 632802,
+                    "shortname": null,
+                    "city_id": 977
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632821,
+                    "town_name": "乌兰县",
+                    "weight": 632821,
+                    "shortname": null,
+                    "city_id": 977
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632822,
+                    "town_name": "都兰县",
+                    "weight": 632822,
+                    "shortname": null,
+                    "city_id": 977
+                },
+                {
+                    "province_id": 971,
+                    "town_id": 632823,
+                    "town_name": "天峻县",
+                    "weight": 632823,
+                    "shortname": null,
+                    "city_id": 977
+                }
+            ],
+            "weight": 632800,
+            "region3_city_id": 632800,
+            "shortname": "海西",
+            "city_id": 977
+        },
+        {
+            "extend": "geermushi",
+            "city_name": "格尔木市",
+            "province_id": 971,
+            "towns": [
+                {
+                    "province_id": 971,
+                    "town_id": 630201,
+                    "town_name": "格尔木市",
+                    "weight": 632901,
+                    "shortname": null,
+                    "city_id": 979
+                }
+            ],
+            "weight": 632900,
+            "region3_city_id": 630200,
+            "shortname": null,
+            "city_id": 979
+        }
+    ]
+}

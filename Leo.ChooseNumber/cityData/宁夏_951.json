@@ -1,0 +1,229 @@
+{
+    "code": 0,
+    "msg": "操作成功",
+    "data": [
+        {
+            "extend": "yinchuan",
+            "city_name": "银川",
+            "province_id": 951,
+            "towns": [
+                {
+                    "province_id": 951,
+                    "town_id": 640104,
+                    "town_name": "兴庆区",
+                    "weight": 640104,
+                    "shortname": null,
+                    "city_id": 951
+                },
+                {
+                    "province_id": 951,
+                    "town_id": 640105,
+                    "town_name": "西夏区",
+                    "weight": 640105,
+                    "shortname": null,
+                    "city_id": 951
+                },
+                {
+                    "province_id": 951,
+                    "town_id": 640106,
+                    "town_name": "金凤区",
+                    "weight": 640106,
+                    "shortname": null,
+                    "city_id": 951
+                },
+                {
+                    "province_id": 951,
+                    "town_id": 640121,
+                    "town_name": "永宁县",
+                    "weight": 640121,
+                    "shortname": null,
+                    "city_id": 951
+                },
+                {
+                    "province_id": 951,
+                    "town_id": 640122,
+                    "town_name": "贺兰县",
+                    "weight": 640122,
+                    "shortname": null,
+                    "city_id": 951
+                },
+                {
+                    "province_id": 951,
+                    "town_id": 640181,
+                    "town_name": "灵武市",
+                    "weight": 640181,
+                    "shortname": null,
+                    "city_id": 951
+                }
+            ],
+            "weight": 640100,
+            "region3_city_id": 640100,
+            "shortname": null,
+            "city_id": 951
+        },
+        {
+            "extend": "shizuishan",
+            "city_name": "石嘴山",
+            "province_id": 951,
+            "towns": [
+                {
+                    "province_id": 951,
+                    "town_id": 640202,
+                    "town_name": "大武口区",
+                    "weight": 640202,
+                    "shortname": null,
+                    "city_id": 952
+                },
+                {
+                    "province_id": 951,
+                    "town_id": 640205,
+                    "town_name": "惠农区",
+                    "weight": 640205,
+                    "shortname": null,
+                    "city_id": 952
+                },
+                {
+                    "province_id": 951,
+                    "town_id": 640221,
+                    "town_name": "平罗县",
+                    "weight": 640221,
+                    "shortname": null,
+                    "city_id": 952
+                }
+            ],
+            "weight": 640200,
+            "region3_city_id": 640200,
+            "shortname": null,
+            "city_id": 952
+        },
+        {
+            "extend": "wuzhong",
+            "city_name": "吴忠",
+            "province_id": 951,
+            "towns": [
+                {
+                    "province_id": 951,
+                    "town_id": 640302,
+                    "town_name": "利通区",
+                    "weight": 640302,
+                    "shortname": null,
+                    "city_id": 953
+                },
+                {
+                    "province_id": 951,
+                    "town_id": 640323,
+                    "town_name": "盐池县",
+                    "weight": 640323,
+                    "shortname": null,
+                    "city_id": 953
+                },
+                {
+                    "province_id": 951,
+                    "town_id": 640324,
+                    "town_name": "同心县",
+                    "weight": 640324,
+                    "shortname": null,
+                    "city_id": 953
+                },
+                {
+                    "province_id": 951,
+                    "town_id": 640381,
+                    "town_name": "青铜峡市",
+                    "weight": 640381,
+                    "shortname": null,
+                    "city_id": 953
+                }
+            ],
+            "weight": 640300,
+            "region3_city_id": 640300,
+            "shortname": null,
+            "city_id": 953
+        },
+        {
+            "extend": "guyuan",
+            "city_name": "固原",
+            "province_id": 951,
+            "towns": [
+                {
+                    "province_id": 951,
+                    "town_id": 640402,
+                    "town_name": "原州区",
+                    "weight": 640402,
+                    "shortname": null,
+                    "city_id": 954
+                },
+                {
+                    "province_id": 951,
+                    "town_id": 640422,
+                    "town_name": "西吉县",
+                    "weight": 640422,
+                    "shortname": null,
+                    "city_id": 954
+                },
+                {
+                    "province_id": 951,
+                    "town_id": 640423,
+                    "town_name": "隆德县",
+                    "weight": 640423,
+                    "shortname": null,
+                    "city_id": 954
+                },
+                {
+                    "province_id": 951,
+                    "town_id": 640424,
+                    "town_name": "泾源县",
+                    "weight": 640424,
+                    "shortname": null,
+                    "city_id": 954
+                },
+                {
+                    "province_id": 951,
+                    "town_id": 640425,
+                    "town_name": "彭阳县",
+                    "weight": 640425,
+                    "shortname": null,
+                    "city_id": 954
+                }
+            ],
+            "weight": 640400,
+            "region3_city_id": 640400,
+            "shortname": null,
+            "city_id": 954
+        },
+        {
+            "extend": "zhongwei",
+            "city_name": "中卫",
+            "province_id": 951,
+            "towns": [
+                {
+                    "province_id": 951,
+                    "town_id": 640502,
+                    "town_name": "沙坡头区",
+                    "weight": 640502,
+                    "shortname": null,
+                    "city_id": 955
+                },
+                {
+                    "province_id": 951,
+                    "town_id": 640521,
+                    "town_name": "中宁县",
+                    "weight": 640521,
+                    "shortname": null,
+                    "city_id": 955
+                },
+                {
+                    "province_id": 951,
+                    "town_id": 640522,
+                    "town_name": "海原县",
+                    "weight": 640522,
+                    "shortname": null,
+                    "city_id": 955
+                }
+            ],
+            "weight": 640500,
+            "region3_city_id": 640500,
+            "shortname": null,
+            "city_id": 955
+        }
+    ]
+}

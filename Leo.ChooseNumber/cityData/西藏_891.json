@@ -1,0 +1,667 @@
+{
+    "code": 0,
+    "msg": "操作成功",
+    "data": [
+        {
+            "extend": "lasa",
+            "city_name": "拉萨",
+            "province_id": 891,
+            "towns": [
+                {
+                    "province_id": 891,
+                    "town_id": 540102,
+                    "town_name": "城关区",
+                    "weight": 540102,
+                    "shortname": null,
+                    "city_id": 891
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 540121,
+                    "town_name": "林周县",
+                    "weight": 540121,
+                    "shortname": null,
+                    "city_id": 891
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 540122,
+                    "town_name": "当雄县",
+                    "weight": 540122,
+                    "shortname": null,
+                    "city_id": 891
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 540123,
+                    "town_name": "尼木县",
+                    "weight": 540123,
+                    "shortname": null,
+                    "city_id": 891
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 540124,
+                    "town_name": "曲水县",
+                    "weight": 540124,
+                    "shortname": null,
+                    "city_id": 891
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 540125,
+                    "town_name": "堆龙德庆县",
+                    "weight": 540125,
+                    "shortname": null,
+                    "city_id": 891
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 540126,
+                    "town_name": "达孜县",
+                    "weight": 540126,
+                    "shortname": null,
+                    "city_id": 891
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 540127,
+                    "town_name": "墨竹工卡县",
+                    "weight": 540127,
+                    "shortname": null,
+                    "city_id": 891
+                }
+            ],
+            "weight": 540100,
+            "region3_city_id": 540100,
+            "shortname": null,
+            "city_id": 891
+        },
+        {
+            "extend": "rikaze",
+            "city_name": "日喀则",
+            "province_id": 891,
+            "towns": [
+                {
+                    "province_id": 891,
+                    "town_id": 542301,
+                    "town_name": "日喀则市",
+                    "weight": 542301,
+                    "shortname": null,
+                    "city_id": 892
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542322,
+                    "town_name": "南木林县",
+                    "weight": 542322,
+                    "shortname": null,
+                    "city_id": 892
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542323,
+                    "town_name": "江孜县",
+                    "weight": 542323,
+                    "shortname": null,
+                    "city_id": 892
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542324,
+                    "town_name": "定日县",
+                    "weight": 542324,
+                    "shortname": null,
+                    "city_id": 892
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542325,
+                    "town_name": "萨迦县",
+                    "weight": 542325,
+                    "shortname": null,
+                    "city_id": 892
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542326,
+                    "town_name": "拉孜县",
+                    "weight": 542326,
+                    "shortname": null,
+                    "city_id": 892
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542327,
+                    "town_name": "昂仁县",
+                    "weight": 542327,
+                    "shortname": null,
+                    "city_id": 892
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542328,
+                    "town_name": "谢通门县",
+                    "weight": 542328,
+                    "shortname": null,
+                    "city_id": 892
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542329,
+                    "town_name": "白朗县",
+                    "weight": 542329,
+                    "shortname": null,
+                    "city_id": 892
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542330,
+                    "town_name": "仁布县",
+                    "weight": 542330,
+                    "shortname": null,
+                    "city_id": 892
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542331,
+                    "town_name": "康马县",
+                    "weight": 542331,
+                    "shortname": null,
+                    "city_id": 892
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542332,
+                    "town_name": "定结县",
+                    "weight": 542332,
+                    "shortname": null,
+                    "city_id": 892
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542333,
+                    "town_name": "仲巴县",
+                    "weight": 542333,
+                    "shortname": null,
+                    "city_id": 892
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542334,
+                    "town_name": "亚东县",
+                    "weight": 542334,
+                    "shortname": null,
+                    "city_id": 892
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542335,
+                    "town_name": "吉隆县",
+                    "weight": 542335,
+                    "shortname": null,
+                    "city_id": 892
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542336,
+                    "town_name": "聂拉木县",
+                    "weight": 542336,
+                    "shortname": null,
+                    "city_id": 892
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542337,
+                    "town_name": "萨嘎县",
+                    "weight": 542337,
+                    "shortname": null,
+                    "city_id": 892
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542338,
+                    "town_name": "岗巴县",
+                    "weight": 542338,
+                    "shortname": null,
+                    "city_id": 892
+                }
+            ],
+            "weight": 542100,
+            "region3_city_id": 542300,
+            "shortname": null,
+            "city_id": 892
+        },
+        {
+            "extend": "shannan",
+            "city_name": "山南",
+            "province_id": 891,
+            "towns": [
+                {
+                    "province_id": 891,
+                    "town_id": 542221,
+                    "town_name": "乃东县",
+                    "weight": 542221,
+                    "shortname": null,
+                    "city_id": 893
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542222,
+                    "town_name": "扎囊县",
+                    "weight": 542222,
+                    "shortname": null,
+                    "city_id": 893
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542223,
+                    "town_name": "贡嘎县",
+                    "weight": 542223,
+                    "shortname": null,
+                    "city_id": 893
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542224,
+                    "town_name": "桑日县",
+                    "weight": 542224,
+                    "shortname": null,
+                    "city_id": 893
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542225,
+                    "town_name": "琼结县",
+                    "weight": 542225,
+                    "shortname": null,
+                    "city_id": 893
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542226,
+                    "town_name": "曲松县",
+                    "weight": 542226,
+                    "shortname": null,
+                    "city_id": 893
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542227,
+                    "town_name": "措美县",
+                    "weight": 542227,
+                    "shortname": null,
+                    "city_id": 893
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542228,
+                    "town_name": "洛扎县",
+                    "weight": 542228,
+                    "shortname": null,
+                    "city_id": 893
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542229,
+                    "town_name": "加查县",
+                    "weight": 542229,
+                    "shortname": null,
+                    "city_id": 893
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542231,
+                    "town_name": "隆子县",
+                    "weight": 542231,
+                    "shortname": null,
+                    "city_id": 893
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542232,
+                    "town_name": "错那县",
+                    "weight": 542232,
+                    "shortname": null,
+                    "city_id": 893
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542233,
+                    "town_name": "浪卡子县",
+                    "weight": 542233,
+                    "shortname": null,
+                    "city_id": 893
+                }
+            ],
+            "weight": 542200,
+            "region3_city_id": 542200,
+            "shortname": null,
+            "city_id": 893
+        },
+        {
+            "extend": "linzhi",
+            "city_name": "林芝",
+            "province_id": 891,
+            "towns": [
+                {
+                    "province_id": 891,
+                    "town_id": 542621,
+                    "town_name": "林芝县",
+                    "weight": 542621,
+                    "shortname": null,
+                    "city_id": 894
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542622,
+                    "town_name": "工布江达县",
+                    "weight": 542622,
+                    "shortname": null,
+                    "city_id": 894
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542623,
+                    "town_name": "米林县",
+                    "weight": 542623,
+                    "shortname": null,
+                    "city_id": 894
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542624,
+                    "town_name": "墨脱县",
+                    "weight": 542624,
+                    "shortname": null,
+                    "city_id": 894
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542625,
+                    "town_name": "波密县",
+                    "weight": 542625,
+                    "shortname": null,
+                    "city_id": 894
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542626,
+                    "town_name": "察隅县",
+                    "weight": 542626,
+                    "shortname": null,
+                    "city_id": 894
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542627,
+                    "town_name": "朗　县",
+                    "weight": 542627,
+                    "shortname": null,
+                    "city_id": 894
+                }
+            ],
+            "weight": 542300,
+            "region3_city_id": 542600,
+            "shortname": null,
+            "city_id": 894
+        },
+        {
+            "extend": "changdu",
+            "city_name": "昌都",
+            "province_id": 891,
+            "towns": [
+                {
+                    "province_id": 891,
+                    "town_id": 542121,
+                    "town_name": "昌都县",
+                    "weight": 542121,
+                    "shortname": null,
+                    "city_id": 895
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542122,
+                    "town_name": "江达县",
+                    "weight": 542122,
+                    "shortname": null,
+                    "city_id": 895
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542123,
+                    "town_name": "贡觉县",
+                    "weight": 542123,
+                    "shortname": null,
+                    "city_id": 895
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542124,
+                    "town_name": "类乌齐县",
+                    "weight": 542124,
+                    "shortname": null,
+                    "city_id": 895
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542125,
+                    "town_name": "丁青县",
+                    "weight": 542125,
+                    "shortname": null,
+                    "city_id": 895
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542126,
+                    "town_name": "察雅县",
+                    "weight": 542126,
+                    "shortname": null,
+                    "city_id": 895
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542127,
+                    "town_name": "八宿县",
+                    "weight": 542127,
+                    "shortname": null,
+                    "city_id": 895
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542128,
+                    "town_name": "左贡县",
+                    "weight": 542128,
+                    "shortname": null,
+                    "city_id": 895
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542129,
+                    "town_name": "芒康县",
+                    "weight": 542129,
+                    "shortname": null,
+                    "city_id": 895
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542132,
+                    "town_name": "洛隆县",
+                    "weight": 542132,
+                    "shortname": null,
+                    "city_id": 895
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542133,
+                    "town_name": "边坝县",
+                    "weight": 542133,
+                    "shortname": null,
+                    "city_id": 895
+                }
+            ],
+            "weight": 542400,
+            "region3_city_id": 542100,
+            "shortname": null,
+            "city_id": 895
+        },
+        {
+            "extend": "naqu",
+            "city_name": "那曲",
+            "province_id": 891,
+            "towns": [
+                {
+                    "province_id": 891,
+                    "town_id": 542421,
+                    "town_name": "那曲县",
+                    "weight": 542421,
+                    "shortname": null,
+                    "city_id": 896
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542422,
+                    "town_name": "嘉黎县",
+                    "weight": 542422,
+                    "shortname": null,
+                    "city_id": 896
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542423,
+                    "town_name": "比如县",
+                    "weight": 542423,
+                    "shortname": null,
+                    "city_id": 896
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542424,
+                    "town_name": "聂荣县",
+                    "weight": 542424,
+                    "shortname": null,
+                    "city_id": 896
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542425,
+                    "town_name": "安多县",
+                    "weight": 542425,
+                    "shortname": null,
+                    "city_id": 896
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542426,
+                    "town_name": "申扎县",
+                    "weight": 542426,
+                    "shortname": null,
+                    "city_id": 896
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542427,
+                    "town_name": "索　县",
+                    "weight": 542427,
+                    "shortname": null,
+                    "city_id": 896
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542428,
+                    "town_name": "班戈县",
+                    "weight": 542428,
+                    "shortname": null,
+                    "city_id": 896
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542429,
+                    "town_name": "巴青县",
+                    "weight": 542429,
+                    "shortname": null,
+                    "city_id": 896
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542430,
+                    "town_name": "尼玛县",
+                    "weight": 542430,
+                    "shortname": null,
+                    "city_id": 896
+                }
+            ],
+            "weight": 542500,
+            "region3_city_id": 542400,
+            "shortname": null,
+            "city_id": 896
+        },
+        {
+            "extend": "ali",
+            "city_name": "阿里",
+            "province_id": 891,
+            "towns": [
+                {
+                    "province_id": 891,
+                    "town_id": 542521,
+                    "town_name": "普兰县",
+                    "weight": 542521,
+                    "shortname": null,
+                    "city_id": 897
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542522,
+                    "town_name": "札达县",
+                    "weight": 542522,
+                    "shortname": null,
+                    "city_id": 897
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542523,
+                    "town_name": "噶尔县",
+                    "weight": 542523,
+                    "shortname": null,
+                    "city_id": 897
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542524,
+                    "town_name": "日土县",
+                    "weight": 542524,
+                    "shortname": null,
+                    "city_id": 897
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542525,
+                    "town_name": "革吉县",
+                    "weight": 542525,
+                    "shortname": null,
+                    "city_id": 897
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542526,
+                    "town_name": "改则县",
+                    "weight": 542526,
+                    "shortname": null,
+                    "city_id": 897
+                },
+                {
+                    "province_id": 891,
+                    "town_id": 542527,
+                    "town_name": "措勤县",
+                    "weight": 542527,
+                    "shortname": null,
+                    "city_id": 897
+                }
+            ],
+            "weight": 542600,
+            "region3_city_id": 542500,
+            "shortname": null,
+            "city_id": 897
+        }
+    ]
+}

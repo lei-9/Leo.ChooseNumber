@@ -1,0 +1,985 @@
+{
+    "code": 0,
+    "msg": "操作成功",
+    "data": [
+        {
+            "extend": "wulumuqi",
+            "city_name": "乌鲁木齐",
+            "province_id": 991,
+            "towns": [
+                {
+                    "province_id": 991,
+                    "town_id": 650102,
+                    "town_name": "天山区",
+                    "weight": 650102,
+                    "shortname": null,
+                    "city_id": 991
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 650103,
+                    "town_name": "沙依巴克区",
+                    "weight": 650103,
+                    "shortname": null,
+                    "city_id": 991
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 650104,
+                    "town_name": "新市区",
+                    "weight": 650104,
+                    "shortname": null,
+                    "city_id": 991
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 650105,
+                    "town_name": "水磨沟区",
+                    "weight": 650105,
+                    "shortname": null,
+                    "city_id": 991
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 650106,
+                    "town_name": "头屯河区",
+                    "weight": 650106,
+                    "shortname": null,
+                    "city_id": 991
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 650107,
+                    "town_name": "达坂城区",
+                    "weight": 650107,
+                    "shortname": null,
+                    "city_id": 991
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 650108,
+                    "town_name": "东山区",
+                    "weight": 650108,
+                    "shortname": null,
+                    "city_id": 991
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 650121,
+                    "town_name": "乌鲁木齐县",
+                    "weight": 650121,
+                    "shortname": null,
+                    "city_id": 991
+                }
+            ],
+            "weight": 650100,
+            "region3_city_id": 650100,
+            "shortname": null,
+            "city_id": 991
+        },
+        {
+            "extend": "kelamayi",
+            "city_name": "克拉玛依",
+            "province_id": 991,
+            "towns": [
+                {
+                    "province_id": 991,
+                    "town_id": 650202,
+                    "town_name": "独山子区",
+                    "weight": 650202,
+                    "shortname": null,
+                    "city_id": 990
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 650203,
+                    "town_name": "克拉玛依区",
+                    "weight": 650203,
+                    "shortname": null,
+                    "city_id": 990
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 650204,
+                    "town_name": "白碱滩区",
+                    "weight": 650204,
+                    "shortname": null,
+                    "city_id": 990
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 650205,
+                    "town_name": "乌尔禾区",
+                    "weight": 650205,
+                    "shortname": null,
+                    "city_id": 990
+                }
+            ],
+            "weight": 650200,
+            "region3_city_id": 650200,
+            "shortname": null,
+            "city_id": 990
+        },
+        {
+            "extend": "tulufan",
+            "city_name": "吐鲁番",
+            "province_id": 991,
+            "towns": [
+                {
+                    "province_id": 991,
+                    "town_id": 652101,
+                    "town_name": "吐鲁番市",
+                    "weight": 652101,
+                    "shortname": null,
+                    "city_id": 995
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652122,
+                    "town_name": "鄯善县",
+                    "weight": 652122,
+                    "shortname": null,
+                    "city_id": 995
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652123,
+                    "town_name": "托克逊县",
+                    "weight": 652123,
+                    "shortname": null,
+                    "city_id": 995
+                }
+            ],
+            "weight": 652100,
+            "region3_city_id": 652100,
+            "shortname": null,
+            "city_id": 995
+        },
+        {
+            "extend": "hami",
+            "city_name": "哈密",
+            "province_id": 991,
+            "towns": [
+                {
+                    "province_id": 991,
+                    "town_id": 652201,
+                    "town_name": "哈密市",
+                    "weight": 652201,
+                    "shortname": null,
+                    "city_id": 902
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652222,
+                    "town_name": "巴里坤哈萨克自治县",
+                    "weight": 652222,
+                    "shortname": null,
+                    "city_id": 902
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652223,
+                    "town_name": "伊吾县",
+                    "weight": 652223,
+                    "shortname": null,
+                    "city_id": 902
+                }
+            ],
+            "weight": 652200,
+            "region3_city_id": 652200,
+            "shortname": null,
+            "city_id": 902
+        },
+        {
+            "extend": "changjihuizuzizhizhou",
+            "city_name": "昌吉回族自治州",
+            "province_id": 991,
+            "towns": [
+                {
+                    "province_id": 991,
+                    "town_id": 652301,
+                    "town_name": "昌吉市",
+                    "weight": 652301,
+                    "shortname": null,
+                    "city_id": 994
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652302,
+                    "town_name": "阜康市",
+                    "weight": 652302,
+                    "shortname": null,
+                    "city_id": 994
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652303,
+                    "town_name": "米泉市",
+                    "weight": 652303,
+                    "shortname": null,
+                    "city_id": 994
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652323,
+                    "town_name": "呼图壁县",
+                    "weight": 652323,
+                    "shortname": null,
+                    "city_id": 994
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652324,
+                    "town_name": "玛纳斯县",
+                    "weight": 652324,
+                    "shortname": null,
+                    "city_id": 994
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652325,
+                    "town_name": "奇台县",
+                    "weight": 652325,
+                    "shortname": null,
+                    "city_id": 994
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652327,
+                    "town_name": "吉木萨尔县",
+                    "weight": 652327,
+                    "shortname": null,
+                    "city_id": 994
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652328,
+                    "town_name": "木垒哈萨克自治县",
+                    "weight": 652328,
+                    "shortname": null,
+                    "city_id": 994
+                }
+            ],
+            "weight": 652300,
+            "region3_city_id": 652300,
+            "shortname": "昌吉",
+            "city_id": 994
+        },
+        {
+            "extend": "boertalamengguzizhizhou",
+            "city_name": "博尔塔拉蒙古自治州",
+            "province_id": 991,
+            "towns": [
+                {
+                    "province_id": 991,
+                    "town_id": 652701,
+                    "town_name": "博乐市",
+                    "weight": 652701,
+                    "shortname": null,
+                    "city_id": 909
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652722,
+                    "town_name": "精河县",
+                    "weight": 652722,
+                    "shortname": null,
+                    "city_id": 909
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652723,
+                    "town_name": "温泉县",
+                    "weight": 652723,
+                    "shortname": null,
+                    "city_id": 909
+                }
+            ],
+            "weight": 652700,
+            "region3_city_id": 652700,
+            "shortname": "博州",
+            "city_id": 909
+        },
+        {
+            "extend": "bayinguolengmengguzizhizhou",
+            "city_name": "巴音郭楞蒙古自治州",
+            "province_id": 991,
+            "towns": [
+                {
+                    "province_id": 991,
+                    "town_id": 652801,
+                    "town_name": "库尔勒市",
+                    "weight": 652801,
+                    "shortname": null,
+                    "city_id": 996
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652822,
+                    "town_name": "轮台县",
+                    "weight": 652822,
+                    "shortname": null,
+                    "city_id": 996
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652823,
+                    "town_name": "尉犁县",
+                    "weight": 652823,
+                    "shortname": null,
+                    "city_id": 996
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652824,
+                    "town_name": "若羌县",
+                    "weight": 652824,
+                    "shortname": null,
+                    "city_id": 996
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652825,
+                    "town_name": "且末县",
+                    "weight": 652825,
+                    "shortname": null,
+                    "city_id": 996
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652826,
+                    "town_name": "焉耆回族自治县",
+                    "weight": 652826,
+                    "shortname": null,
+                    "city_id": 996
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652827,
+                    "town_name": "和静县",
+                    "weight": 652827,
+                    "shortname": null,
+                    "city_id": 996
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652828,
+                    "town_name": "和硕县",
+                    "weight": 652828,
+                    "shortname": null,
+                    "city_id": 996
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652829,
+                    "town_name": "博湖县",
+                    "weight": 652829,
+                    "shortname": null,
+                    "city_id": 996
+                }
+            ],
+            "weight": 652800,
+            "region3_city_id": 652800,
+            "shortname": "巴州",
+            "city_id": 996
+        },
+        {
+            "extend": "akesu",
+            "city_name": "阿克苏",
+            "province_id": 991,
+            "towns": [
+                {
+                    "province_id": 991,
+                    "town_id": 652901,
+                    "town_name": "阿克苏市",
+                    "weight": 652901,
+                    "shortname": null,
+                    "city_id": 997
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652922,
+                    "town_name": "温宿县",
+                    "weight": 652922,
+                    "shortname": null,
+                    "city_id": 997
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652923,
+                    "town_name": "库车县",
+                    "weight": 652923,
+                    "shortname": null,
+                    "city_id": 997
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652924,
+                    "town_name": "沙雅县",
+                    "weight": 652924,
+                    "shortname": null,
+                    "city_id": 997
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652925,
+                    "town_name": "新和县",
+                    "weight": 652925,
+                    "shortname": null,
+                    "city_id": 997
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652926,
+                    "town_name": "拜城县",
+                    "weight": 652926,
+                    "shortname": null,
+                    "city_id": 997
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652927,
+                    "town_name": "乌什县",
+                    "weight": 652927,
+                    "shortname": null,
+                    "city_id": 997
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652928,
+                    "town_name": "阿瓦提县",
+                    "weight": 652928,
+                    "shortname": null,
+                    "city_id": 997
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 652929,
+                    "town_name": "柯坪县",
+                    "weight": 652929,
+                    "shortname": null,
+                    "city_id": 997
+                }
+            ],
+            "weight": 652900,
+            "region3_city_id": 652900,
+            "shortname": null,
+            "city_id": 997
+        },
+        {
+            "extend": "kezilesukeerkezizizhizhou",
+            "city_name": "克孜勒苏柯尔克孜自治州",
+            "province_id": 991,
+            "towns": [
+                {
+                    "province_id": 991,
+                    "town_id": 653001,
+                    "town_name": "阿图什市",
+                    "weight": 653001,
+                    "shortname": null,
+                    "city_id": 908
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 653022,
+                    "town_name": "阿克陶县",
+                    "weight": 653022,
+                    "shortname": null,
+                    "city_id": 908
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 653023,
+                    "town_name": "阿合奇县",
+                    "weight": 653023,
+                    "shortname": null,
+                    "city_id": 908
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 653024,
+                    "town_name": "乌恰县",
+                    "weight": 653024,
+                    "shortname": null,
+                    "city_id": 908
+                }
+            ],
+            "weight": 653000,
+            "region3_city_id": 653000,
+            "shortname": "克州",
+            "city_id": 908
+        },
+        {
+            "extend": "kashi",
+            "city_name": "喀什",
+            "province_id": 991,
+            "towns": [
+                {
+                    "province_id": 991,
+                    "town_id": 653101,
+                    "town_name": "喀什市",
+                    "weight": 653101,
+                    "shortname": null,
+                    "city_id": 998
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 653121,
+                    "town_name": "疏附县",
+                    "weight": 653121,
+                    "shortname": null,
+                    "city_id": 998
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 653122,
+                    "town_name": "疏勒县",
+                    "weight": 653122,
+                    "shortname": null,
+                    "city_id": 998
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 653123,
+                    "town_name": "英吉沙县",
+                    "weight": 653123,
+                    "shortname": null,
+                    "city_id": 998
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 653124,
+                    "town_name": "泽普县",
+                    "weight": 653124,
+                    "shortname": null,
+                    "city_id": 998
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 653125,
+                    "town_name": "莎车县",
+                    "weight": 653125,
+                    "shortname": null,
+                    "city_id": 998
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 653126,
+                    "town_name": "叶城县",
+                    "weight": 653126,
+                    "shortname": null,
+                    "city_id": 998
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 653127,
+                    "town_name": "麦盖提县",
+                    "weight": 653127,
+                    "shortname": null,
+                    "city_id": 998
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 653128,
+                    "town_name": "岳普湖县",
+                    "weight": 653128,
+                    "shortname": null,
+                    "city_id": 998
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 653129,
+                    "town_name": "伽师县",
+                    "weight": 653129,
+                    "shortname": null,
+                    "city_id": 998
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 653130,
+                    "town_name": "巴楚县",
+                    "weight": 653130,
+                    "shortname": null,
+                    "city_id": 998
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 653131,
+                    "town_name": "塔什库尔干塔吉克自治县",
+                    "weight": 653131,
+                    "shortname": null,
+                    "city_id": 998
+                }
+            ],
+            "weight": 653100,
+            "region3_city_id": 653100,
+            "shortname": null,
+            "city_id": 998
+        },
+        {
+            "extend": "hetian",
+            "city_name": "和田",
+            "province_id": 991,
+            "towns": [
+                {
+                    "province_id": 991,
+                    "town_id": 653201,
+                    "town_name": "和田市",
+                    "weight": 653201,
+                    "shortname": null,
+                    "city_id": 903
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 653221,
+                    "town_name": "和田县",
+                    "weight": 653221,
+                    "shortname": null,
+                    "city_id": 903
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 653222,
+                    "town_name": "墨玉县",
+                    "weight": 653222,
+                    "shortname": null,
+                    "city_id": 903
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 653223,
+                    "town_name": "皮山县",
+                    "weight": 653223,
+                    "shortname": null,
+                    "city_id": 903
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 653224,
+                    "town_name": "洛浦县",
+                    "weight": 653224,
+                    "shortname": null,
+                    "city_id": 903
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 653225,
+                    "town_name": "策勒县",
+                    "weight": 653225,
+                    "shortname": null,
+                    "city_id": 903
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 653226,
+                    "town_name": "于田县",
+                    "weight": 653226,
+                    "shortname": null,
+                    "city_id": 903
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 653227,
+                    "town_name": "民丰县",
+                    "weight": 653227,
+                    "shortname": null,
+                    "city_id": 903
+                }
+            ],
+            "weight": 653200,
+            "region3_city_id": 653200,
+            "shortname": null,
+            "city_id": 903
+        },
+        {
+            "extend": "yilihasakezizhizhou",
+            "city_name": "伊犁哈萨克自治州",
+            "province_id": 991,
+            "towns": [
+                {
+                    "province_id": 991,
+                    "town_id": 654002,
+                    "town_name": "伊宁市",
+                    "weight": 654002,
+                    "shortname": null,
+                    "city_id": 999
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 654021,
+                    "town_name": "伊宁县",
+                    "weight": 654021,
+                    "shortname": null,
+                    "city_id": 999
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 654022,
+                    "town_name": "察布查尔锡伯自治县",
+                    "weight": 654022,
+                    "shortname": null,
+                    "city_id": 999
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 654023,
+                    "town_name": "霍城县",
+                    "weight": 654023,
+                    "shortname": null,
+                    "city_id": 999
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 654024,
+                    "town_name": "巩留县",
+                    "weight": 654024,
+                    "shortname": null,
+                    "city_id": 999
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 654025,
+                    "town_name": "新源县",
+                    "weight": 654025,
+                    "shortname": null,
+                    "city_id": 999
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 654026,
+                    "town_name": "昭苏县",
+                    "weight": 654026,
+                    "shortname": null,
+                    "city_id": 999
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 654027,
+                    "town_name": "特克斯县",
+                    "weight": 654027,
+                    "shortname": null,
+                    "city_id": 999
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 654028,
+                    "town_name": "尼勒克县",
+                    "weight": 654028,
+                    "shortname": null,
+                    "city_id": 999
+                }
+            ],
+            "weight": 654000,
+            "region3_city_id": 654000,
+            "shortname": "伊犁",
+            "city_id": 999
+        },
+        {
+            "extend": "tacheng",
+            "city_name": "塔城",
+            "province_id": 991,
+            "towns": [
+                {
+                    "province_id": 991,
+                    "town_id": 654201,
+                    "town_name": "塔城市",
+                    "weight": 654201,
+                    "shortname": null,
+                    "city_id": 901
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 654202,
+                    "town_name": "乌苏市",
+                    "weight": 654202,
+                    "shortname": null,
+                    "city_id": 901
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 654221,
+                    "town_name": "额敏县",
+                    "weight": 654221,
+                    "shortname": null,
+                    "city_id": 901
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 654223,
+                    "town_name": "沙湾县",
+                    "weight": 654223,
+                    "shortname": null,
+                    "city_id": 901
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 654224,
+                    "town_name": "托里县",
+                    "weight": 654224,
+                    "shortname": null,
+                    "city_id": 901
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 654225,
+                    "town_name": "裕民县",
+                    "weight": 654225,
+                    "shortname": null,
+                    "city_id": 901
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 654226,
+                    "town_name": "和布克赛尔蒙古自治县",
+                    "weight": 654226,
+                    "shortname": null,
+                    "city_id": 901
+                }
+            ],
+            "weight": 654200,
+            "region3_city_id": 654200,
+            "shortname": null,
+            "city_id": 901
+        },
+        {
+            "extend": "aletai",
+            "city_name": "阿勒泰",
+            "province_id": 991,
+            "towns": [
+                {
+                    "province_id": 991,
+                    "town_id": 654301,
+                    "town_name": "阿勒泰市",
+                    "weight": 654301,
+                    "shortname": null,
+                    "city_id": 906
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 654321,
+                    "town_name": "布尔津县",
+                    "weight": 654321,
+                    "shortname": null,
+                    "city_id": 906
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 654322,
+                    "town_name": "富蕴县",
+                    "weight": 654322,
+                    "shortname": null,
+                    "city_id": 906
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 654323,
+                    "town_name": "福海县",
+                    "weight": 654323,
+                    "shortname": null,
+                    "city_id": 906
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 654324,
+                    "town_name": "哈巴河县",
+                    "weight": 654324,
+                    "shortname": null,
+                    "city_id": 906
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 654325,
+                    "town_name": "青河县",
+                    "weight": 654325,
+                    "shortname": null,
+                    "city_id": 906
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 654326,
+                    "town_name": "吉木乃县",
+                    "weight": 654326,
+                    "shortname": null,
+                    "city_id": 906
+                }
+            ],
+            "weight": 654300,
+            "region3_city_id": 654300,
+            "shortname": null,
+            "city_id": 906
+        },
+        {
+            "extend": "shihezi",
+            "city_name": "石河子",
+            "province_id": 991,
+            "towns": [
+                {
+                    "province_id": 991,
+                    "town_id": 659001,
+                    "town_name": "石河子市",
+                    "weight": 659001,
+                    "shortname": null,
+                    "city_id": 993
+                }
+            ],
+            "weight": 655000,
+            "region3_city_id": 655000,
+            "shortname": null,
+            "city_id": 993
+        },
+        {
+            "extend": "kuitun",
+            "city_name": "奎屯",
+            "province_id": 991,
+            "towns": [
+                {
+                    "province_id": 991,
+                    "town_id": 654003,
+                    "town_name": "奎屯市",
+                    "weight": 654003,
+                    "shortname": null,
+                    "city_id": 992
+                }
+            ],
+            "weight": 656000,
+            "region3_city_id": 656000,
+            "shortname": null,
+            "city_id": 992
+        },
+        {
+            "extend": "shengzhixiaxingzhengdanwei",
+            "city_name": "省直辖行政单位",
+            "province_id": 991,
+            "towns": [
+                {
+                    "province_id": 991,
+                    "town_id": 659002,
+                    "town_name": "阿拉尔市",
+                    "weight": 659002,
+                    "shortname": null,
+                    "city_id": 1100
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 659003,
+                    "town_name": "图木舒克市",
+                    "weight": 659003,
+                    "shortname": null,
+                    "city_id": 1100
+                },
+                {
+                    "province_id": 991,
+                    "town_id": 659004,
+                    "town_name": "五家渠市",
+                    "weight": 659004,
+                    "shortname": null,
+                    "city_id": 1100
+                }
+            ],
+            "weight": 659000,
+            "region3_city_id": 659000,
+            "shortname": "省直辖单位",
+            "city_id": 1100
+        }
+    ]
+}

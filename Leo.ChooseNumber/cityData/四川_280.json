@@ -1,0 +1,1685 @@
+{
+    "code": 0,
+    "msg": "操作成功",
+    "data": [
+        {
+            "extend": "chengdu",
+            "city_name": "成都",
+            "province_id": 280,
+            "towns": [
+                {
+                    "province_id": 280,
+                    "town_id": 510104,
+                    "town_name": "锦江区",
+                    "weight": 510104,
+                    "shortname": null,
+                    "city_id": 280
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510105,
+                    "town_name": "青羊区",
+                    "weight": 510105,
+                    "shortname": null,
+                    "city_id": 280
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510106,
+                    "town_name": "金牛区",
+                    "weight": 510106,
+                    "shortname": null,
+                    "city_id": 280
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510107,
+                    "town_name": "武侯区",
+                    "weight": 510107,
+                    "shortname": null,
+                    "city_id": 280
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510108,
+                    "town_name": "成华区",
+                    "weight": 510108,
+                    "shortname": null,
+                    "city_id": 280
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510112,
+                    "town_name": "龙泉驿区",
+                    "weight": 510112,
+                    "shortname": null,
+                    "city_id": 280
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510113,
+                    "town_name": "青白江区",
+                    "weight": 510113,
+                    "shortname": null,
+                    "city_id": 280
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510114,
+                    "town_name": "新都区",
+                    "weight": 510114,
+                    "shortname": null,
+                    "city_id": 280
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510115,
+                    "town_name": "温江区",
+                    "weight": 510115,
+                    "shortname": null,
+                    "city_id": 280
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510121,
+                    "town_name": "金堂县",
+                    "weight": 510121,
+                    "shortname": null,
+                    "city_id": 280
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510122,
+                    "town_name": "双流县",
+                    "weight": 510122,
+                    "shortname": null,
+                    "city_id": 280
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510124,
+                    "town_name": "郫　县",
+                    "weight": 510124,
+                    "shortname": null,
+                    "city_id": 280
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510129,
+                    "town_name": "大邑县",
+                    "weight": 510129,
+                    "shortname": null,
+                    "city_id": 280
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510131,
+                    "town_name": "蒲江县",
+                    "weight": 510131,
+                    "shortname": null,
+                    "city_id": 280
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510132,
+                    "town_name": "新津县",
+                    "weight": 510132,
+                    "shortname": null,
+                    "city_id": 280
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510181,
+                    "town_name": "都江堰市",
+                    "weight": 510181,
+                    "shortname": null,
+                    "city_id": 280
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510182,
+                    "town_name": "彭州市",
+                    "weight": 510182,
+                    "shortname": null,
+                    "city_id": 280
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510183,
+                    "town_name": "邛崃市",
+                    "weight": 510183,
+                    "shortname": null,
+                    "city_id": 280
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510184,
+                    "town_name": "崇州市",
+                    "weight": 510184,
+                    "shortname": null,
+                    "city_id": 280
+                }
+            ],
+            "weight": 510100,
+            "region3_city_id": 510100,
+            "shortname": null,
+            "city_id": 280
+        },
+        {
+            "extend": "zigong",
+            "city_name": "自贡",
+            "province_id": 280,
+            "towns": [
+                {
+                    "province_id": 280,
+                    "town_id": 510302,
+                    "town_name": "自流井区",
+                    "weight": 510302,
+                    "shortname": null,
+                    "city_id": 813
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510303,
+                    "town_name": "贡井区",
+                    "weight": 510303,
+                    "shortname": null,
+                    "city_id": 813
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510304,
+                    "town_name": "大安区",
+                    "weight": 510304,
+                    "shortname": null,
+                    "city_id": 813
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510311,
+                    "town_name": "沿滩区",
+                    "weight": 510311,
+                    "shortname": null,
+                    "city_id": 813
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510321,
+                    "town_name": "荣　县",
+                    "weight": 510321,
+                    "shortname": null,
+                    "city_id": 813
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510322,
+                    "town_name": "富顺县",
+                    "weight": 510322,
+                    "shortname": null,
+                    "city_id": 813
+                }
+            ],
+            "weight": 510300,
+            "region3_city_id": 510300,
+            "shortname": null,
+            "city_id": 813
+        },
+        {
+            "extend": "panzhihua",
+            "city_name": "攀枝花",
+            "province_id": 280,
+            "towns": [
+                {
+                    "province_id": 280,
+                    "town_id": 510402,
+                    "town_name": "东　区",
+                    "weight": 510402,
+                    "shortname": null,
+                    "city_id": 812
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510403,
+                    "town_name": "西　区",
+                    "weight": 510403,
+                    "shortname": null,
+                    "city_id": 812
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510411,
+                    "town_name": "仁和区",
+                    "weight": 510411,
+                    "shortname": null,
+                    "city_id": 812
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510421,
+                    "town_name": "米易县",
+                    "weight": 510421,
+                    "shortname": null,
+                    "city_id": 812
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510422,
+                    "town_name": "盐边县",
+                    "weight": 510422,
+                    "shortname": null,
+                    "city_id": 812
+                }
+            ],
+            "weight": 510400,
+            "region3_city_id": 510400,
+            "shortname": null,
+            "city_id": 812
+        },
+        {
+            "extend": "luzhou",
+            "city_name": "泸州",
+            "province_id": 280,
+            "towns": [
+                {
+                    "province_id": 280,
+                    "town_id": 510502,
+                    "town_name": "江阳区",
+                    "weight": 510502,
+                    "shortname": null,
+                    "city_id": 830
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510503,
+                    "town_name": "纳溪区",
+                    "weight": 510503,
+                    "shortname": null,
+                    "city_id": 830
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510504,
+                    "town_name": "龙马潭区",
+                    "weight": 510504,
+                    "shortname": null,
+                    "city_id": 830
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510521,
+                    "town_name": "泸　县",
+                    "weight": 510521,
+                    "shortname": null,
+                    "city_id": 830
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510522,
+                    "town_name": "合江县",
+                    "weight": 510522,
+                    "shortname": null,
+                    "city_id": 830
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510524,
+                    "town_name": "叙永县",
+                    "weight": 510524,
+                    "shortname": null,
+                    "city_id": 830
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510525,
+                    "town_name": "古蔺县",
+                    "weight": 510525,
+                    "shortname": null,
+                    "city_id": 830
+                }
+            ],
+            "weight": 510500,
+            "region3_city_id": 510500,
+            "shortname": null,
+            "city_id": 830
+        },
+        {
+            "extend": "deyang",
+            "city_name": "德阳",
+            "province_id": 280,
+            "towns": [
+                {
+                    "province_id": 280,
+                    "town_id": 510603,
+                    "town_name": "旌阳区",
+                    "weight": 510603,
+                    "shortname": null,
+                    "city_id": 838
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510623,
+                    "town_name": "中江县",
+                    "weight": 510623,
+                    "shortname": null,
+                    "city_id": 838
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510626,
+                    "town_name": "罗江县",
+                    "weight": 510626,
+                    "shortname": null,
+                    "city_id": 838
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510681,
+                    "town_name": "广汉市",
+                    "weight": 510681,
+                    "shortname": null,
+                    "city_id": 838
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510682,
+                    "town_name": "什邡市",
+                    "weight": 510682,
+                    "shortname": null,
+                    "city_id": 838
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510683,
+                    "town_name": "绵竹市",
+                    "weight": 510683,
+                    "shortname": null,
+                    "city_id": 838
+                }
+            ],
+            "weight": 510600,
+            "region3_city_id": 510600,
+            "shortname": null,
+            "city_id": 838
+        },
+        {
+            "extend": "mianyang",
+            "city_name": "绵阳",
+            "province_id": 280,
+            "towns": [
+                {
+                    "province_id": 280,
+                    "town_id": 510703,
+                    "town_name": "涪城区",
+                    "weight": 510703,
+                    "shortname": null,
+                    "city_id": 816
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510704,
+                    "town_name": "游仙区",
+                    "weight": 510704,
+                    "shortname": null,
+                    "city_id": 816
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510722,
+                    "town_name": "三台县",
+                    "weight": 510722,
+                    "shortname": null,
+                    "city_id": 816
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510723,
+                    "town_name": "盐亭县",
+                    "weight": 510723,
+                    "shortname": null,
+                    "city_id": 816
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510724,
+                    "town_name": "安　县",
+                    "weight": 510724,
+                    "shortname": null,
+                    "city_id": 816
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510725,
+                    "town_name": "梓潼县",
+                    "weight": 510725,
+                    "shortname": null,
+                    "city_id": 816
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510726,
+                    "town_name": "北川羌族自治县",
+                    "weight": 510726,
+                    "shortname": null,
+                    "city_id": 816
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510727,
+                    "town_name": "平武县",
+                    "weight": 510727,
+                    "shortname": null,
+                    "city_id": 816
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510781,
+                    "town_name": "江油市",
+                    "weight": 510781,
+                    "shortname": null,
+                    "city_id": 816
+                }
+            ],
+            "weight": 510700,
+            "region3_city_id": 510700,
+            "shortname": null,
+            "city_id": 816
+        },
+        {
+            "extend": "guangyuan",
+            "city_name": "广元",
+            "province_id": 280,
+            "towns": [
+                {
+                    "province_id": 280,
+                    "town_id": 510802,
+                    "town_name": "市中区",
+                    "weight": 510802,
+                    "shortname": null,
+                    "city_id": 839
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510811,
+                    "town_name": "元坝区",
+                    "weight": 510811,
+                    "shortname": null,
+                    "city_id": 839
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510812,
+                    "town_name": "朝天区",
+                    "weight": 510812,
+                    "shortname": null,
+                    "city_id": 839
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510821,
+                    "town_name": "旺苍县",
+                    "weight": 510821,
+                    "shortname": null,
+                    "city_id": 839
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510822,
+                    "town_name": "青川县",
+                    "weight": 510822,
+                    "shortname": null,
+                    "city_id": 839
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510823,
+                    "town_name": "剑阁县",
+                    "weight": 510823,
+                    "shortname": null,
+                    "city_id": 839
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510824,
+                    "town_name": "苍溪县",
+                    "weight": 510824,
+                    "shortname": null,
+                    "city_id": 839
+                }
+            ],
+            "weight": 510800,
+            "region3_city_id": 510800,
+            "shortname": null,
+            "city_id": 839
+        },
+        {
+            "extend": "suining",
+            "city_name": "遂宁",
+            "province_id": 280,
+            "towns": [
+                {
+                    "province_id": 280,
+                    "town_id": 510903,
+                    "town_name": "船山区",
+                    "weight": 510903,
+                    "shortname": null,
+                    "city_id": 825
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510904,
+                    "town_name": "安居区",
+                    "weight": 510904,
+                    "shortname": null,
+                    "city_id": 825
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510921,
+                    "town_name": "蓬溪县",
+                    "weight": 510921,
+                    "shortname": null,
+                    "city_id": 825
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510922,
+                    "town_name": "射洪县",
+                    "weight": 510922,
+                    "shortname": null,
+                    "city_id": 825
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 510923,
+                    "town_name": "大英县",
+                    "weight": 510923,
+                    "shortname": null,
+                    "city_id": 825
+                }
+            ],
+            "weight": 510900,
+            "region3_city_id": 510900,
+            "shortname": null,
+            "city_id": 825
+        },
+        {
+            "extend": "neijiang",
+            "city_name": "内江",
+            "province_id": 280,
+            "towns": [
+                {
+                    "province_id": 280,
+                    "town_id": 511002,
+                    "town_name": "市中区",
+                    "weight": 511002,
+                    "shortname": null,
+                    "city_id": 832
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511011,
+                    "town_name": "东兴区",
+                    "weight": 511011,
+                    "shortname": null,
+                    "city_id": 832
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511024,
+                    "town_name": "威远县",
+                    "weight": 511024,
+                    "shortname": null,
+                    "city_id": 832
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511025,
+                    "town_name": "资中县",
+                    "weight": 511025,
+                    "shortname": null,
+                    "city_id": 832
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511028,
+                    "town_name": "隆昌县",
+                    "weight": 511028,
+                    "shortname": null,
+                    "city_id": 832
+                }
+            ],
+            "weight": 511000,
+            "region3_city_id": 511000,
+            "shortname": null,
+            "city_id": 832
+        },
+        {
+            "extend": "leshan",
+            "city_name": "乐山",
+            "province_id": 280,
+            "towns": [
+                {
+                    "province_id": 280,
+                    "town_id": 511102,
+                    "town_name": "市中区",
+                    "weight": 511102,
+                    "shortname": null,
+                    "city_id": 833
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511111,
+                    "town_name": "沙湾区",
+                    "weight": 511111,
+                    "shortname": null,
+                    "city_id": 833
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511112,
+                    "town_name": "五通桥区",
+                    "weight": 511112,
+                    "shortname": null,
+                    "city_id": 833
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511113,
+                    "town_name": "金口河区",
+                    "weight": 511113,
+                    "shortname": null,
+                    "city_id": 833
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511123,
+                    "town_name": "犍为县",
+                    "weight": 511123,
+                    "shortname": null,
+                    "city_id": 833
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511124,
+                    "town_name": "井研县",
+                    "weight": 511124,
+                    "shortname": null,
+                    "city_id": 833
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511126,
+                    "town_name": "夹江县",
+                    "weight": 511126,
+                    "shortname": null,
+                    "city_id": 833
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511129,
+                    "town_name": "沐川县",
+                    "weight": 511129,
+                    "shortname": null,
+                    "city_id": 833
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511132,
+                    "town_name": "峨边彝族自治县",
+                    "weight": 511132,
+                    "shortname": null,
+                    "city_id": 833
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511133,
+                    "town_name": "马边彝族自治县",
+                    "weight": 511133,
+                    "shortname": null,
+                    "city_id": 833
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511181,
+                    "town_name": "峨眉山市",
+                    "weight": 511181,
+                    "shortname": null,
+                    "city_id": 833
+                }
+            ],
+            "weight": 511100,
+            "region3_city_id": 511100,
+            "shortname": null,
+            "city_id": 833
+        },
+        {
+            "extend": "nanchong",
+            "city_name": "南充",
+            "province_id": 280,
+            "towns": [
+                {
+                    "province_id": 280,
+                    "town_id": 511302,
+                    "town_name": "顺庆区",
+                    "weight": 511302,
+                    "shortname": null,
+                    "city_id": 817
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511303,
+                    "town_name": "高坪区",
+                    "weight": 511303,
+                    "shortname": null,
+                    "city_id": 817
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511304,
+                    "town_name": "嘉陵区",
+                    "weight": 511304,
+                    "shortname": null,
+                    "city_id": 817
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511321,
+                    "town_name": "南部县",
+                    "weight": 511321,
+                    "shortname": null,
+                    "city_id": 817
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511322,
+                    "town_name": "营山县",
+                    "weight": 511322,
+                    "shortname": null,
+                    "city_id": 817
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511323,
+                    "town_name": "蓬安县",
+                    "weight": 511323,
+                    "shortname": null,
+                    "city_id": 817
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511324,
+                    "town_name": "仪陇县",
+                    "weight": 511324,
+                    "shortname": null,
+                    "city_id": 817
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511325,
+                    "town_name": "西充县",
+                    "weight": 511325,
+                    "shortname": null,
+                    "city_id": 817
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511381,
+                    "town_name": "阆中市",
+                    "weight": 511381,
+                    "shortname": null,
+                    "city_id": 817
+                }
+            ],
+            "weight": 511300,
+            "region3_city_id": 511300,
+            "shortname": null,
+            "city_id": 817
+        },
+        {
+            "extend": "meishan",
+            "city_name": "眉山",
+            "province_id": 280,
+            "towns": [
+                {
+                    "province_id": 280,
+                    "town_id": 511402,
+                    "town_name": "东坡区",
+                    "weight": 511402,
+                    "shortname": null,
+                    "city_id": 841
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511421,
+                    "town_name": "仁寿县",
+                    "weight": 511421,
+                    "shortname": null,
+                    "city_id": 841
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511422,
+                    "town_name": "彭山县",
+                    "weight": 511422,
+                    "shortname": null,
+                    "city_id": 841
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511423,
+                    "town_name": "洪雅县",
+                    "weight": 511423,
+                    "shortname": null,
+                    "city_id": 841
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511424,
+                    "town_name": "丹棱县",
+                    "weight": 511424,
+                    "shortname": null,
+                    "city_id": 841
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511425,
+                    "town_name": "青神县",
+                    "weight": 511425,
+                    "shortname": null,
+                    "city_id": 841
+                }
+            ],
+            "weight": 511400,
+            "region3_city_id": 511400,
+            "shortname": null,
+            "city_id": 841
+        },
+        {
+            "extend": "yibin",
+            "city_name": "宜宾",
+            "province_id": 280,
+            "towns": [
+                {
+                    "province_id": 280,
+                    "town_id": 511502,
+                    "town_name": "翠屏区",
+                    "weight": 511502,
+                    "shortname": null,
+                    "city_id": 831
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511521,
+                    "town_name": "宜宾县",
+                    "weight": 511521,
+                    "shortname": null,
+                    "city_id": 831
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511522,
+                    "town_name": "南溪县",
+                    "weight": 511522,
+                    "shortname": null,
+                    "city_id": 831
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511523,
+                    "town_name": "江安县",
+                    "weight": 511523,
+                    "shortname": null,
+                    "city_id": 831
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511524,
+                    "town_name": "长宁县",
+                    "weight": 511524,
+                    "shortname": null,
+                    "city_id": 831
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511525,
+                    "town_name": "高　县",
+                    "weight": 511525,
+                    "shortname": null,
+                    "city_id": 831
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511526,
+                    "town_name": "珙　县",
+                    "weight": 511526,
+                    "shortname": null,
+                    "city_id": 831
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511527,
+                    "town_name": "筠连县",
+                    "weight": 511527,
+                    "shortname": null,
+                    "city_id": 831
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511528,
+                    "town_name": "兴文县",
+                    "weight": 511528,
+                    "shortname": null,
+                    "city_id": 831
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511529,
+                    "town_name": "屏山县",
+                    "weight": 511529,
+                    "shortname": null,
+                    "city_id": 831
+                }
+            ],
+            "weight": 511500,
+            "region3_city_id": 511500,
+            "shortname": null,
+            "city_id": 831
+        },
+        {
+            "extend": "guangan",
+            "city_name": "广安",
+            "province_id": 280,
+            "towns": [
+                {
+                    "province_id": 280,
+                    "town_id": 511602,
+                    "town_name": "广安区",
+                    "weight": 511602,
+                    "shortname": null,
+                    "city_id": 826
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511621,
+                    "town_name": "岳池县",
+                    "weight": 511621,
+                    "shortname": null,
+                    "city_id": 826
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511622,
+                    "town_name": "武胜县",
+                    "weight": 511622,
+                    "shortname": null,
+                    "city_id": 826
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511623,
+                    "town_name": "邻水县",
+                    "weight": 511623,
+                    "shortname": null,
+                    "city_id": 826
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511681,
+                    "town_name": "华莹市",
+                    "weight": 511681,
+                    "shortname": null,
+                    "city_id": 826
+                }
+            ],
+            "weight": 511600,
+            "region3_city_id": 511600,
+            "shortname": null,
+            "city_id": 826
+        },
+        {
+            "extend": "dazhou",
+            "city_name": "达州",
+            "province_id": 280,
+            "towns": [
+                {
+                    "province_id": 280,
+                    "town_id": 511702,
+                    "town_name": "通川区",
+                    "weight": 511702,
+                    "shortname": null,
+                    "city_id": 818
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511721,
+                    "town_name": "达　县",
+                    "weight": 511721,
+                    "shortname": null,
+                    "city_id": 818
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511722,
+                    "town_name": "宣汉县",
+                    "weight": 511722,
+                    "shortname": null,
+                    "city_id": 818
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511723,
+                    "town_name": "开江县",
+                    "weight": 511723,
+                    "shortname": null,
+                    "city_id": 818
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511724,
+                    "town_name": "大竹县",
+                    "weight": 511724,
+                    "shortname": null,
+                    "city_id": 818
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511725,
+                    "town_name": "渠　县",
+                    "weight": 511725,
+                    "shortname": null,
+                    "city_id": 818
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511781,
+                    "town_name": "万源市",
+                    "weight": 511781,
+                    "shortname": null,
+                    "city_id": 818
+                }
+            ],
+            "weight": 511700,
+            "region3_city_id": 511700,
+            "shortname": null,
+            "city_id": 818
+        },
+        {
+            "extend": "yaan",
+            "city_name": "雅安",
+            "province_id": 280,
+            "towns": [
+                {
+                    "province_id": 280,
+                    "town_id": 511802,
+                    "town_name": "雨城区",
+                    "weight": 511802,
+                    "shortname": null,
+                    "city_id": 835
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511821,
+                    "town_name": "**",
+                    "weight": 511821,
+                    "shortname": null,
+                    "city_id": 835
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511822,
+                    "town_name": "荥经县",
+                    "weight": 511822,
+                    "shortname": null,
+                    "city_id": 835
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511823,
+                    "town_name": "汉源县",
+                    "weight": 511823,
+                    "shortname": null,
+                    "city_id": 835
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511824,
+                    "town_name": "石棉县",
+                    "weight": 511824,
+                    "shortname": null,
+                    "city_id": 835
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511825,
+                    "town_name": "天全县",
+                    "weight": 511825,
+                    "shortname": null,
+                    "city_id": 835
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511826,
+                    "town_name": "芦山县",
+                    "weight": 511826,
+                    "shortname": null,
+                    "city_id": 835
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511827,
+                    "town_name": "宝兴县",
+                    "weight": 511827,
+                    "shortname": null,
+                    "city_id": 835
+                }
+            ],
+            "weight": 511800,
+            "region3_city_id": 511800,
+            "shortname": null,
+            "city_id": 835
+        },
+        {
+            "extend": "bazhong",
+            "city_name": "巴中",
+            "province_id": 280,
+            "towns": [
+                {
+                    "province_id": 280,
+                    "town_id": 511902,
+                    "town_name": "巴州区",
+                    "weight": 511902,
+                    "shortname": null,
+                    "city_id": 827
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511921,
+                    "town_name": "通江县",
+                    "weight": 511921,
+                    "shortname": null,
+                    "city_id": 827
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511922,
+                    "town_name": "南江县",
+                    "weight": 511922,
+                    "shortname": null,
+                    "city_id": 827
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 511923,
+                    "town_name": "平昌县",
+                    "weight": 511923,
+                    "shortname": null,
+                    "city_id": 827
+                }
+            ],
+            "weight": 511900,
+            "region3_city_id": 511900,
+            "shortname": null,
+            "city_id": 827
+        },
+        {
+            "extend": "ziyang",
+            "city_name": "资阳",
+            "province_id": 280,
+            "towns": [
+                {
+                    "province_id": 280,
+                    "town_id": 512002,
+                    "town_name": "雁江区",
+                    "weight": 512002,
+                    "shortname": null,
+                    "city_id": 840
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 512021,
+                    "town_name": "安岳县",
+                    "weight": 512021,
+                    "shortname": null,
+                    "city_id": 840
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 512022,
+                    "town_name": "乐至县",
+                    "weight": 512022,
+                    "shortname": null,
+                    "city_id": 840
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 512081,
+                    "town_name": "简阳市",
+                    "weight": 512081,
+                    "shortname": null,
+                    "city_id": 840
+                }
+            ],
+            "weight": 512000,
+            "region3_city_id": 512000,
+            "shortname": null,
+            "city_id": 840
+        },
+        {
+            "extend": "abazangzuqiangzuzizhizhou",
+            "city_name": "阿坝藏族羌族自治州",
+            "province_id": 280,
+            "towns": [
+                {
+                    "province_id": 280,
+                    "town_id": 513221,
+                    "town_name": "汶川县",
+                    "weight": 513221,
+                    "shortname": null,
+                    "city_id": 837
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513222,
+                    "town_name": "理　县",
+                    "weight": 513222,
+                    "shortname": null,
+                    "city_id": 837
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513223,
+                    "town_name": "茂　县",
+                    "weight": 513223,
+                    "shortname": null,
+                    "city_id": 837
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513224,
+                    "town_name": "松潘县",
+                    "weight": 513224,
+                    "shortname": null,
+                    "city_id": 837
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513225,
+                    "town_name": "九寨沟县",
+                    "weight": 513225,
+                    "shortname": null,
+                    "city_id": 837
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513226,
+                    "town_name": "金川县",
+                    "weight": 513226,
+                    "shortname": null,
+                    "city_id": 837
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513227,
+                    "town_name": "小金县",
+                    "weight": 513227,
+                    "shortname": null,
+                    "city_id": 837
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513228,
+                    "town_name": "黑水县",
+                    "weight": 513228,
+                    "shortname": null,
+                    "city_id": 837
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513229,
+                    "town_name": "马尔康县",
+                    "weight": 513229,
+                    "shortname": null,
+                    "city_id": 837
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513230,
+                    "town_name": "壤塘县",
+                    "weight": 513230,
+                    "shortname": null,
+                    "city_id": 837
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513231,
+                    "town_name": "阿坝县",
+                    "weight": 513231,
+                    "shortname": null,
+                    "city_id": 837
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513232,
+                    "town_name": "若尔盖县",
+                    "weight": 513232,
+                    "shortname": null,
+                    "city_id": 837
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513233,
+                    "town_name": "红原县",
+                    "weight": 513233,
+                    "shortname": null,
+                    "city_id": 837
+                }
+            ],
+            "weight": 513200,
+            "region3_city_id": 513200,
+            "shortname": "阿坝",
+            "city_id": 837
+        },
+        {
+            "extend": "ganzizangzuzizhizhou",
+            "city_name": "甘孜藏族自治州",
+            "province_id": 280,
+            "towns": [
+                {
+                    "province_id": 280,
+                    "town_id": 513321,
+                    "town_name": "康定县",
+                    "weight": 513321,
+                    "shortname": null,
+                    "city_id": 836
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513322,
+                    "town_name": "泸定县",
+                    "weight": 513322,
+                    "shortname": null,
+                    "city_id": 836
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513323,
+                    "town_name": "丹巴县",
+                    "weight": 513323,
+                    "shortname": null,
+                    "city_id": 836
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513324,
+                    "town_name": "九龙县",
+                    "weight": 513324,
+                    "shortname": null,
+                    "city_id": 836
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513325,
+                    "town_name": "雅江县",
+                    "weight": 513325,
+                    "shortname": null,
+                    "city_id": 836
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513326,
+                    "town_name": "道孚县",
+                    "weight": 513326,
+                    "shortname": null,
+                    "city_id": 836
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513327,
+                    "town_name": "炉霍县",
+                    "weight": 513327,
+                    "shortname": null,
+                    "city_id": 836
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513328,
+                    "town_name": "甘孜县",
+                    "weight": 513328,
+                    "shortname": null,
+                    "city_id": 836
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513329,
+                    "town_name": "新龙县",
+                    "weight": 513329,
+                    "shortname": null,
+                    "city_id": 836
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513330,
+                    "town_name": "德格县",
+                    "weight": 513330,
+                    "shortname": null,
+                    "city_id": 836
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513331,
+                    "town_name": "白玉县",
+                    "weight": 513331,
+                    "shortname": null,
+                    "city_id": 836
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513332,
+                    "town_name": "石渠县",
+                    "weight": 513332,
+                    "shortname": null,
+                    "city_id": 836
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513333,
+                    "town_name": "色达县",
+                    "weight": 513333,
+                    "shortname": null,
+                    "city_id": 836
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513334,
+                    "town_name": "理塘县",
+                    "weight": 513334,
+                    "shortname": null,
+                    "city_id": 836
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513335,
+                    "town_name": "巴塘县",
+                    "weight": 513335,
+                    "shortname": null,
+                    "city_id": 836
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513336,
+                    "town_name": "乡城县",
+                    "weight": 513336,
+                    "shortname": null,
+                    "city_id": 836
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513337,
+                    "town_name": "稻城县",
+                    "weight": 513337,
+                    "shortname": null,
+                    "city_id": 836
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513338,
+                    "town_name": "得荣县",
+                    "weight": 513338,
+                    "shortname": null,
+                    "city_id": 836
+                }
+            ],
+            "weight": 513300,
+            "region3_city_id": 513300,
+            "shortname": "甘孜",
+            "city_id": 836
+        },
+        {
+            "extend": "liangshanyizuzizhizhou",
+            "city_name": "凉山彝族自治州",
+            "province_id": 280,
+            "towns": [
+                {
+                    "province_id": 280,
+                    "town_id": 513401,
+                    "town_name": "西昌市",
+                    "weight": 513401,
+                    "shortname": null,
+                    "city_id": 834
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513422,
+                    "town_name": "木里藏族自治县",
+                    "weight": 513422,
+                    "shortname": null,
+                    "city_id": 834
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513423,
+                    "town_name": "盐源县",
+                    "weight": 513423,
+                    "shortname": null,
+                    "city_id": 834
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513424,
+                    "town_name": "德昌县",
+                    "weight": 513424,
+                    "shortname": null,
+                    "city_id": 834
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513425,
+                    "town_name": "会理县",
+                    "weight": 513425,
+                    "shortname": null,
+                    "city_id": 834
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513426,
+                    "town_name": "会东县",
+                    "weight": 513426,
+                    "shortname": null,
+                    "city_id": 834
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513427,
+                    "town_name": "宁南县",
+                    "weight": 513427,
+                    "shortname": null,
+                    "city_id": 834
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513428,
+                    "town_name": "普格县",
+                    "weight": 513428,
+                    "shortname": null,
+                    "city_id": 834
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513429,
+                    "town_name": "布拖县",
+                    "weight": 513429,
+                    "shortname": null,
+                    "city_id": 834
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513430,
+                    "town_name": "金阳县",
+                    "weight": 513430,
+                    "shortname": null,
+                    "city_id": 834
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513431,
+                    "town_name": "昭觉县",
+                    "weight": 513431,
+                    "shortname": null,
+                    "city_id": 834
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513432,
+                    "town_name": "喜德县",
+                    "weight": 513432,
+                    "shortname": null,
+                    "city_id": 834
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513433,
+                    "town_name": "冕宁县",
+                    "weight": 513433,
+                    "shortname": null,
+                    "city_id": 834
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513434,
+                    "town_name": "越西县",
+                    "weight": 513434,
+                    "shortname": null,
+                    "city_id": 834
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513435,
+                    "town_name": "甘洛县",
+                    "weight": 513435,
+                    "shortname": null,
+                    "city_id": 834
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513436,
+                    "town_name": "美姑县",
+                    "weight": 513436,
+                    "shortname": null,
+                    "city_id": 834
+                },
+                {
+                    "province_id": 280,
+                    "town_id": 513437,
+                    "town_name": "雷波县",
+                    "weight": 513437,
+                    "shortname": null,
+                    "city_id": 834
+                }
+            ],
+            "weight": 513400,
+            "region3_city_id": 513400,
+            "shortname": "凉山",
+            "city_id": 834
+        }
+    ]
+}

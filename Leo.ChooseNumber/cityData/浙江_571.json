@@ -1,0 +1,839 @@
+{
+    "code": 0,
+    "msg": "操作成功",
+    "data": [
+        {
+            "extend": "hangzhou",
+            "city_name": "杭州",
+            "province_id": 571,
+            "towns": [
+                {
+                    "province_id": 571,
+                    "town_id": 330102,
+                    "town_name": "上城区",
+                    "weight": 330102,
+                    "shortname": null,
+                    "city_id": 571
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330103,
+                    "town_name": "下城区",
+                    "weight": 330103,
+                    "shortname": null,
+                    "city_id": 571
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330104,
+                    "town_name": "江干区",
+                    "weight": 330104,
+                    "shortname": null,
+                    "city_id": 571
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330105,
+                    "town_name": "拱墅区",
+                    "weight": 330105,
+                    "shortname": null,
+                    "city_id": 571
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330106,
+                    "town_name": "西湖区",
+                    "weight": 330106,
+                    "shortname": null,
+                    "city_id": 571
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330108,
+                    "town_name": "滨江区",
+                    "weight": 330108,
+                    "shortname": null,
+                    "city_id": 571
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330109,
+                    "town_name": "萧山区",
+                    "weight": 330109,
+                    "shortname": null,
+                    "city_id": 571
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330110,
+                    "town_name": "余杭区",
+                    "weight": 330110,
+                    "shortname": null,
+                    "city_id": 571
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330122,
+                    "town_name": "桐庐县",
+                    "weight": 330122,
+                    "shortname": null,
+                    "city_id": 571
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330127,
+                    "town_name": "淳安县",
+                    "weight": 330127,
+                    "shortname": null,
+                    "city_id": 571
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330182,
+                    "town_name": "建德市",
+                    "weight": 330182,
+                    "shortname": null,
+                    "city_id": 571
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330183,
+                    "town_name": "富阳市",
+                    "weight": 330183,
+                    "shortname": null,
+                    "city_id": 571
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330185,
+                    "town_name": "临安市",
+                    "weight": 330185,
+                    "shortname": null,
+                    "city_id": 571
+                }
+            ],
+            "weight": 330100,
+            "region3_city_id": 330100,
+            "shortname": null,
+            "city_id": 571
+        },
+        {
+            "extend": "ningbo",
+            "city_name": "宁波",
+            "province_id": 571,
+            "towns": [
+                {
+                    "province_id": 571,
+                    "town_id": 330203,
+                    "town_name": "海曙区",
+                    "weight": 330203,
+                    "shortname": null,
+                    "city_id": 574
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330205,
+                    "town_name": "江北区",
+                    "weight": 330205,
+                    "shortname": null,
+                    "city_id": 574
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330206,
+                    "town_name": "北仑区",
+                    "weight": 330206,
+                    "shortname": null,
+                    "city_id": 574
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330211,
+                    "town_name": "镇海区",
+                    "weight": 330211,
+                    "shortname": null,
+                    "city_id": 574
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330212,
+                    "town_name": "鄞州区",
+                    "weight": 330212,
+                    "shortname": null,
+                    "city_id": 574
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330225,
+                    "town_name": "象山县",
+                    "weight": 330225,
+                    "shortname": null,
+                    "city_id": 574
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330226,
+                    "town_name": "宁海县",
+                    "weight": 330226,
+                    "shortname": null,
+                    "city_id": 574
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330281,
+                    "town_name": "余姚市",
+                    "weight": 330281,
+                    "shortname": null,
+                    "city_id": 574
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330282,
+                    "town_name": "慈溪市",
+                    "weight": 330282,
+                    "shortname": null,
+                    "city_id": 574
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330283,
+                    "town_name": "奉化市",
+                    "weight": 330283,
+                    "shortname": null,
+                    "city_id": 574
+                }
+            ],
+            "weight": 330200,
+            "region3_city_id": 330200,
+            "shortname": null,
+            "city_id": 574
+        },
+        {
+            "extend": "wenzhou",
+            "city_name": "温州",
+            "province_id": 571,
+            "towns": [
+                {
+                    "province_id": 571,
+                    "town_id": 330302,
+                    "town_name": "鹿城区",
+                    "weight": 330302,
+                    "shortname": null,
+                    "city_id": 577
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330303,
+                    "town_name": "龙湾区",
+                    "weight": 330303,
+                    "shortname": null,
+                    "city_id": 577
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330304,
+                    "town_name": "瓯海区",
+                    "weight": 330304,
+                    "shortname": null,
+                    "city_id": 577
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330322,
+                    "town_name": "洞头县",
+                    "weight": 330322,
+                    "shortname": null,
+                    "city_id": 577
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330324,
+                    "town_name": "永嘉县",
+                    "weight": 330324,
+                    "shortname": null,
+                    "city_id": 577
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330326,
+                    "town_name": "平阳县",
+                    "weight": 330326,
+                    "shortname": null,
+                    "city_id": 577
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330327,
+                    "town_name": "苍南县",
+                    "weight": 330327,
+                    "shortname": null,
+                    "city_id": 577
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330328,
+                    "town_name": "文成县",
+                    "weight": 330328,
+                    "shortname": null,
+                    "city_id": 577
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330329,
+                    "town_name": "泰顺县",
+                    "weight": 330329,
+                    "shortname": null,
+                    "city_id": 577
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330381,
+                    "town_name": "瑞安市",
+                    "weight": 330381,
+                    "shortname": null,
+                    "city_id": 577
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330382,
+                    "town_name": "乐清市",
+                    "weight": 330382,
+                    "shortname": null,
+                    "city_id": 577
+                }
+            ],
+            "weight": 330300,
+            "region3_city_id": 330300,
+            "shortname": null,
+            "city_id": 577
+        },
+        {
+            "extend": "jiaxing",
+            "city_name": "嘉兴",
+            "province_id": 571,
+            "towns": [
+                {
+                    "province_id": 571,
+                    "town_id": 330402,
+                    "town_name": "秀城区",
+                    "weight": 330402,
+                    "shortname": null,
+                    "city_id": 573
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330411,
+                    "town_name": "秀洲区",
+                    "weight": 330411,
+                    "shortname": null,
+                    "city_id": 573
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330421,
+                    "town_name": "嘉善县",
+                    "weight": 330421,
+                    "shortname": null,
+                    "city_id": 573
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330424,
+                    "town_name": "海盐县",
+                    "weight": 330424,
+                    "shortname": null,
+                    "city_id": 573
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330481,
+                    "town_name": "海宁市",
+                    "weight": 330481,
+                    "shortname": null,
+                    "city_id": 573
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330482,
+                    "town_name": "平湖市",
+                    "weight": 330482,
+                    "shortname": null,
+                    "city_id": 573
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330483,
+                    "town_name": "桐乡市",
+                    "weight": 330483,
+                    "shortname": null,
+                    "city_id": 573
+                }
+            ],
+            "weight": 330400,
+            "region3_city_id": 330400,
+            "shortname": null,
+            "city_id": 573
+        },
+        {
+            "extend": "huzhou",
+            "city_name": "湖州",
+            "province_id": 571,
+            "towns": [
+                {
+                    "province_id": 571,
+                    "town_id": 330502,
+                    "town_name": "吴兴区",
+                    "weight": 330502,
+                    "shortname": null,
+                    "city_id": 572
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330503,
+                    "town_name": "南浔区",
+                    "weight": 330503,
+                    "shortname": null,
+                    "city_id": 572
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330521,
+                    "town_name": "德清县",
+                    "weight": 330521,
+                    "shortname": null,
+                    "city_id": 572
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330522,
+                    "town_name": "长兴县",
+                    "weight": 330522,
+                    "shortname": null,
+                    "city_id": 572
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330523,
+                    "town_name": "安吉县",
+                    "weight": 330523,
+                    "shortname": null,
+                    "city_id": 572
+                }
+            ],
+            "weight": 330500,
+            "region3_city_id": 330500,
+            "shortname": null,
+            "city_id": 572
+        },
+        {
+            "extend": "shaoxing",
+            "city_name": "绍兴",
+            "province_id": 571,
+            "towns": [
+                {
+                    "province_id": 571,
+                    "town_id": 330602,
+                    "town_name": "越城区",
+                    "weight": 330602,
+                    "shortname": null,
+                    "city_id": 575
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330621,
+                    "town_name": "绍兴县",
+                    "weight": 330621,
+                    "shortname": null,
+                    "city_id": 575
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330624,
+                    "town_name": "新昌县",
+                    "weight": 330624,
+                    "shortname": null,
+                    "city_id": 575
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330681,
+                    "town_name": "诸暨市",
+                    "weight": 330681,
+                    "shortname": null,
+                    "city_id": 575
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330682,
+                    "town_name": "上虞市",
+                    "weight": 330682,
+                    "shortname": null,
+                    "city_id": 575
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330683,
+                    "town_name": "嵊州市",
+                    "weight": 330683,
+                    "shortname": null,
+                    "city_id": 575
+                }
+            ],
+            "weight": 330600,
+            "region3_city_id": 330600,
+            "shortname": null,
+            "city_id": 575
+        },
+        {
+            "extend": "jinhua",
+            "city_name": "金华",
+            "province_id": 571,
+            "towns": [
+                {
+                    "province_id": 571,
+                    "town_id": 330702,
+                    "town_name": "婺城区",
+                    "weight": 330702,
+                    "shortname": null,
+                    "city_id": 579
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330703,
+                    "town_name": "金东区",
+                    "weight": 330703,
+                    "shortname": null,
+                    "city_id": 579
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330723,
+                    "town_name": "武义县",
+                    "weight": 330723,
+                    "shortname": null,
+                    "city_id": 579
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330726,
+                    "town_name": "浦江县",
+                    "weight": 330726,
+                    "shortname": null,
+                    "city_id": 579
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330727,
+                    "town_name": "磐安县",
+                    "weight": 330727,
+                    "shortname": null,
+                    "city_id": 579
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330781,
+                    "town_name": "兰溪市",
+                    "weight": 330781,
+                    "shortname": null,
+                    "city_id": 579
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330782,
+                    "town_name": "义乌市",
+                    "weight": 330782,
+                    "shortname": null,
+                    "city_id": 579
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330783,
+                    "town_name": "东阳市",
+                    "weight": 330783,
+                    "shortname": null,
+                    "city_id": 579
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330784,
+                    "town_name": "永康市",
+                    "weight": 330784,
+                    "shortname": null,
+                    "city_id": 579
+                }
+            ],
+            "weight": 330700,
+            "region3_city_id": 330700,
+            "shortname": null,
+            "city_id": 579
+        },
+        {
+            "extend": "quzhou",
+            "city_name": "衢州",
+            "province_id": 571,
+            "towns": [
+                {
+                    "province_id": 571,
+                    "town_id": 330802,
+                    "town_name": "柯城区",
+                    "weight": 330802,
+                    "shortname": null,
+                    "city_id": 570
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330803,
+                    "town_name": "衢江区",
+                    "weight": 330803,
+                    "shortname": null,
+                    "city_id": 570
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330822,
+                    "town_name": "常山县",
+                    "weight": 330822,
+                    "shortname": null,
+                    "city_id": 570
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330824,
+                    "town_name": "开化县",
+                    "weight": 330824,
+                    "shortname": null,
+                    "city_id": 570
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330825,
+                    "town_name": "龙游县",
+                    "weight": 330825,
+                    "shortname": null,
+                    "city_id": 570
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330881,
+                    "town_name": "江山市",
+                    "weight": 330881,
+                    "shortname": null,
+                    "city_id": 570
+                }
+            ],
+            "weight": 330800,
+            "region3_city_id": 330800,
+            "shortname": null,
+            "city_id": 570
+        },
+        {
+            "extend": "zhoushan",
+            "city_name": "舟山",
+            "province_id": 571,
+            "towns": [
+                {
+                    "province_id": 571,
+                    "town_id": 330902,
+                    "town_name": "定海区",
+                    "weight": 330902,
+                    "shortname": null,
+                    "city_id": 580
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330903,
+                    "town_name": "普陀区",
+                    "weight": 330903,
+                    "shortname": null,
+                    "city_id": 580
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330921,
+                    "town_name": "岱山县",
+                    "weight": 330921,
+                    "shortname": null,
+                    "city_id": 580
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 330922,
+                    "town_name": "嵊泗县",
+                    "weight": 330922,
+                    "shortname": null,
+                    "city_id": 580
+                }
+            ],
+            "weight": 330900,
+            "region3_city_id": 330900,
+            "shortname": null,
+            "city_id": 580
+        },
+        {
+            "extend": "taizhou",
+            "city_name": "台州",
+            "province_id": 571,
+            "towns": [
+                {
+                    "province_id": 571,
+                    "town_id": 331002,
+                    "town_name": "椒江区",
+                    "weight": 331002,
+                    "shortname": null,
+                    "city_id": 576
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 331003,
+                    "town_name": "黄岩区",
+                    "weight": 331003,
+                    "shortname": null,
+                    "city_id": 576
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 331004,
+                    "town_name": "路桥区",
+                    "weight": 331004,
+                    "shortname": null,
+                    "city_id": 576
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 331021,
+                    "town_name": "玉环县",
+                    "weight": 331021,
+                    "shortname": null,
+                    "city_id": 576
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 331022,
+                    "town_name": "三门县",
+                    "weight": 331022,
+                    "shortname": null,
+                    "city_id": 576
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 331023,
+                    "town_name": "天台县",
+                    "weight": 331023,
+                    "shortname": null,
+                    "city_id": 576
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 331024,
+                    "town_name": "仙居县",
+                    "weight": 331024,
+                    "shortname": null,
+                    "city_id": 576
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 331081,
+                    "town_name": "温岭市",
+                    "weight": 331081,
+                    "shortname": null,
+                    "city_id": 576
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 331082,
+                    "town_name": "临海市",
+                    "weight": 331082,
+                    "shortname": null,
+                    "city_id": 576
+                }
+            ],
+            "weight": 331000,
+            "region3_city_id": 331000,
+            "shortname": null,
+            "city_id": 576
+        },
+        {
+            "extend": "lishui",
+            "city_name": "丽水",
+            "province_id": 571,
+            "towns": [
+                {
+                    "province_id": 571,
+                    "town_id": 331102,
+                    "town_name": "莲都区",
+                    "weight": 331102,
+                    "shortname": null,
+                    "city_id": 578
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 331121,
+                    "town_name": "青田县",
+                    "weight": 331121,
+                    "shortname": null,
+                    "city_id": 578
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 331122,
+                    "town_name": "缙云县",
+                    "weight": 331122,
+                    "shortname": null,
+                    "city_id": 578
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 331123,
+                    "town_name": "遂昌县",
+                    "weight": 331123,
+                    "shortname": null,
+                    "city_id": 578
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 331124,
+                    "town_name": "松阳县",
+                    "weight": 331124,
+                    "shortname": null,
+                    "city_id": 578
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 331125,
+                    "town_name": "云和县",
+                    "weight": 331125,
+                    "shortname": null,
+                    "city_id": 578
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 331126,
+                    "town_name": "庆元县",
+                    "weight": 331126,
+                    "shortname": null,
+                    "city_id": 578
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 331127,
+                    "town_name": "景宁畲族自治县",
+                    "weight": 331127,
+                    "shortname": null,
+                    "city_id": 578
+                },
+                {
+                    "province_id": 571,
+                    "town_id": 331181,
+                    "town_name": "龙泉市",
+                    "weight": 331181,
+                    "shortname": null,
+                    "city_id": 578
+                }
+            ],
+            "weight": 331100,
+            "region3_city_id": 331100,
+            "shortname": null,
+            "city_id": 578
+        }
+    ]
+}

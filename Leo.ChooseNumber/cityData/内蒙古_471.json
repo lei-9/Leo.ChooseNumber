@@ -1,0 +1,946 @@
+{
+    "code": 0,
+    "msg": "操作成功",
+    "data": [
+        {
+            "extend": "huhehaote",
+            "city_name": "呼和浩特",
+            "province_id": 471,
+            "towns": [
+                {
+                    "province_id": 471,
+                    "town_id": 150102,
+                    "town_name": "新城区",
+                    "weight": 150102,
+                    "shortname": null,
+                    "city_id": 471
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150103,
+                    "town_name": "回民区",
+                    "weight": 150103,
+                    "shortname": null,
+                    "city_id": 471
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150104,
+                    "town_name": "玉泉区",
+                    "weight": 150104,
+                    "shortname": null,
+                    "city_id": 471
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150105,
+                    "town_name": "赛罕区",
+                    "weight": 150105,
+                    "shortname": null,
+                    "city_id": 471
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150121,
+                    "town_name": "土默特左旗",
+                    "weight": 150121,
+                    "shortname": null,
+                    "city_id": 471
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150122,
+                    "town_name": "托克托县",
+                    "weight": 150122,
+                    "shortname": null,
+                    "city_id": 471
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150123,
+                    "town_name": "和林格尔县",
+                    "weight": 150123,
+                    "shortname": null,
+                    "city_id": 471
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150124,
+                    "town_name": "清水河县",
+                    "weight": 150124,
+                    "shortname": null,
+                    "city_id": 471
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150125,
+                    "town_name": "武川县",
+                    "weight": 150125,
+                    "shortname": null,
+                    "city_id": 471
+                }
+            ],
+            "weight": 150100,
+            "region3_city_id": 150100,
+            "shortname": null,
+            "city_id": 471
+        },
+        {
+            "extend": "baotou",
+            "city_name": "包头",
+            "province_id": 471,
+            "towns": [
+                {
+                    "province_id": 471,
+                    "town_id": 150202,
+                    "town_name": "东河区",
+                    "weight": 150202,
+                    "shortname": null,
+                    "city_id": 472
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150203,
+                    "town_name": "昆都仑区",
+                    "weight": 150203,
+                    "shortname": null,
+                    "city_id": 472
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150204,
+                    "town_name": "青山区",
+                    "weight": 150204,
+                    "shortname": null,
+                    "city_id": 472
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150205,
+                    "town_name": "石拐区",
+                    "weight": 150205,
+                    "shortname": null,
+                    "city_id": 472
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150206,
+                    "town_name": "白云矿区",
+                    "weight": 150206,
+                    "shortname": null,
+                    "city_id": 472
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150207,
+                    "town_name": "九原区",
+                    "weight": 150207,
+                    "shortname": null,
+                    "city_id": 472
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150221,
+                    "town_name": "土默特右旗",
+                    "weight": 150221,
+                    "shortname": null,
+                    "city_id": 472
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150222,
+                    "town_name": "固阳县",
+                    "weight": 150222,
+                    "shortname": null,
+                    "city_id": 472
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150223,
+                    "town_name": "达尔罕茂明安联合旗",
+                    "weight": 150223,
+                    "shortname": null,
+                    "city_id": 472
+                }
+            ],
+            "weight": 150200,
+            "region3_city_id": 150200,
+            "shortname": null,
+            "city_id": 472
+        },
+        {
+            "extend": "wuhai",
+            "city_name": "乌海",
+            "province_id": 471,
+            "towns": [
+                {
+                    "province_id": 471,
+                    "town_id": 150302,
+                    "town_name": "海勃湾区",
+                    "weight": 150302,
+                    "shortname": null,
+                    "city_id": 473
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150303,
+                    "town_name": "海南区",
+                    "weight": 150303,
+                    "shortname": null,
+                    "city_id": 473
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150304,
+                    "town_name": "乌达区",
+                    "weight": 150304,
+                    "shortname": null,
+                    "city_id": 473
+                }
+            ],
+            "weight": 150300,
+            "region3_city_id": 150300,
+            "shortname": null,
+            "city_id": 473
+        },
+        {
+            "extend": "chifeng",
+            "city_name": "赤峰",
+            "province_id": 471,
+            "towns": [
+                {
+                    "province_id": 471,
+                    "town_id": 150402,
+                    "town_name": "红山区",
+                    "weight": 150402,
+                    "shortname": null,
+                    "city_id": 476
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150403,
+                    "town_name": "元宝山区",
+                    "weight": 150403,
+                    "shortname": null,
+                    "city_id": 476
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150404,
+                    "town_name": "松山区",
+                    "weight": 150404,
+                    "shortname": null,
+                    "city_id": 476
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150421,
+                    "town_name": "阿鲁科尔沁旗",
+                    "weight": 150421,
+                    "shortname": null,
+                    "city_id": 476
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150422,
+                    "town_name": "巴林左旗",
+                    "weight": 150422,
+                    "shortname": null,
+                    "city_id": 476
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150423,
+                    "town_name": "巴林右旗",
+                    "weight": 150423,
+                    "shortname": null,
+                    "city_id": 476
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150424,
+                    "town_name": "林西县",
+                    "weight": 150424,
+                    "shortname": null,
+                    "city_id": 476
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150425,
+                    "town_name": "克什克腾旗",
+                    "weight": 150425,
+                    "shortname": null,
+                    "city_id": 476
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150426,
+                    "town_name": "翁牛特旗",
+                    "weight": 150426,
+                    "shortname": null,
+                    "city_id": 476
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150428,
+                    "town_name": "喀喇沁旗",
+                    "weight": 150428,
+                    "shortname": null,
+                    "city_id": 476
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150429,
+                    "town_name": "宁城县",
+                    "weight": 150429,
+                    "shortname": null,
+                    "city_id": 476
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150430,
+                    "town_name": "敖汉旗",
+                    "weight": 150430,
+                    "shortname": null,
+                    "city_id": 476
+                }
+            ],
+            "weight": 150400,
+            "region3_city_id": 150400,
+            "shortname": null,
+            "city_id": 476
+        },
+        {
+            "extend": "tongliao",
+            "city_name": "通辽",
+            "province_id": 471,
+            "towns": [
+                {
+                    "province_id": 471,
+                    "town_id": 150502,
+                    "town_name": "科尔沁区",
+                    "weight": 150502,
+                    "shortname": null,
+                    "city_id": 475
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150521,
+                    "town_name": "科尔沁左翼中旗",
+                    "weight": 150521,
+                    "shortname": null,
+                    "city_id": 475
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150522,
+                    "town_name": "科尔沁左翼后旗",
+                    "weight": 150522,
+                    "shortname": null,
+                    "city_id": 475
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150523,
+                    "town_name": "开鲁县",
+                    "weight": 150523,
+                    "shortname": null,
+                    "city_id": 475
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150524,
+                    "town_name": "库伦旗",
+                    "weight": 150524,
+                    "shortname": null,
+                    "city_id": 475
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150525,
+                    "town_name": "奈曼旗",
+                    "weight": 150525,
+                    "shortname": null,
+                    "city_id": 475
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150526,
+                    "town_name": "扎鲁特旗",
+                    "weight": 150526,
+                    "shortname": null,
+                    "city_id": 475
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150581,
+                    "town_name": "霍林郭勒市",
+                    "weight": 150581,
+                    "shortname": null,
+                    "city_id": 475
+                }
+            ],
+            "weight": 150500,
+            "region3_city_id": 150500,
+            "shortname": null,
+            "city_id": 475
+        },
+        {
+            "extend": "eerduosi",
+            "city_name": "鄂尔多斯",
+            "province_id": 471,
+            "towns": [
+                {
+                    "province_id": 471,
+                    "town_id": 150602,
+                    "town_name": "东胜区",
+                    "weight": 150602,
+                    "shortname": null,
+                    "city_id": 477
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150621,
+                    "town_name": "达拉特旗",
+                    "weight": 150621,
+                    "shortname": null,
+                    "city_id": 477
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150622,
+                    "town_name": "准格尔旗",
+                    "weight": 150622,
+                    "shortname": null,
+                    "city_id": 477
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150623,
+                    "town_name": "鄂托克前旗",
+                    "weight": 150623,
+                    "shortname": null,
+                    "city_id": 477
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150624,
+                    "town_name": "鄂托克旗",
+                    "weight": 150624,
+                    "shortname": null,
+                    "city_id": 477
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150625,
+                    "town_name": "杭锦旗",
+                    "weight": 150625,
+                    "shortname": null,
+                    "city_id": 477
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150626,
+                    "town_name": "乌审旗",
+                    "weight": 150626,
+                    "shortname": null,
+                    "city_id": 477
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150627,
+                    "town_name": "伊金霍洛旗",
+                    "weight": 150627,
+                    "shortname": null,
+                    "city_id": 477
+                }
+            ],
+            "weight": 150600,
+            "region3_city_id": 150600,
+            "shortname": null,
+            "city_id": 477
+        },
+        {
+            "extend": "hulunbeier",
+            "city_name": "呼伦贝尔",
+            "province_id": 471,
+            "towns": [
+                {
+                    "province_id": 471,
+                    "town_id": 150702,
+                    "town_name": "海拉尔区",
+                    "weight": 150702,
+                    "shortname": null,
+                    "city_id": 470
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150721,
+                    "town_name": "阿荣旗",
+                    "weight": 150721,
+                    "shortname": null,
+                    "city_id": 470
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150722,
+                    "town_name": "莫力达瓦达斡尔族自治旗",
+                    "weight": 150722,
+                    "shortname": null,
+                    "city_id": 470
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150723,
+                    "town_name": "鄂伦春自治旗",
+                    "weight": 150723,
+                    "shortname": null,
+                    "city_id": 470
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150724,
+                    "town_name": "鄂温克族自治旗",
+                    "weight": 150724,
+                    "shortname": null,
+                    "city_id": 470
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150725,
+                    "town_name": "陈巴尔虎旗",
+                    "weight": 150725,
+                    "shortname": null,
+                    "city_id": 470
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150726,
+                    "town_name": "新巴尔虎左旗",
+                    "weight": 150726,
+                    "shortname": null,
+                    "city_id": 470
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150727,
+                    "town_name": "新巴尔虎右旗",
+                    "weight": 150727,
+                    "shortname": null,
+                    "city_id": 470
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150781,
+                    "town_name": "满洲里市",
+                    "weight": 150781,
+                    "shortname": null,
+                    "city_id": 470
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150782,
+                    "town_name": "牙克石市",
+                    "weight": 150782,
+                    "shortname": null,
+                    "city_id": 470
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150783,
+                    "town_name": "扎兰屯市",
+                    "weight": 150783,
+                    "shortname": null,
+                    "city_id": 470
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150784,
+                    "town_name": "额尔古纳市",
+                    "weight": 150784,
+                    "shortname": null,
+                    "city_id": 470
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150785,
+                    "town_name": "根河市",
+                    "weight": 150785,
+                    "shortname": null,
+                    "city_id": 470
+                }
+            ],
+            "weight": 150700,
+            "region3_city_id": 150700,
+            "shortname": null,
+            "city_id": 470
+        },
+        {
+            "extend": "bayannaoer",
+            "city_name": "巴彦淖尔",
+            "province_id": 471,
+            "towns": [
+                {
+                    "province_id": 471,
+                    "town_id": 150802,
+                    "town_name": "临河区",
+                    "weight": 150802,
+                    "shortname": null,
+                    "city_id": 478
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150821,
+                    "town_name": "五原县",
+                    "weight": 150821,
+                    "shortname": null,
+                    "city_id": 478
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150822,
+                    "town_name": "磴口县",
+                    "weight": 150822,
+                    "shortname": null,
+                    "city_id": 478
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150823,
+                    "town_name": "乌拉特前旗",
+                    "weight": 150823,
+                    "shortname": null,
+                    "city_id": 478
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150824,
+                    "town_name": "乌拉特中旗",
+                    "weight": 150824,
+                    "shortname": null,
+                    "city_id": 478
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150825,
+                    "town_name": "乌拉特后旗",
+                    "weight": 150825,
+                    "shortname": null,
+                    "city_id": 478
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150826,
+                    "town_name": "杭锦后旗",
+                    "weight": 150826,
+                    "shortname": null,
+                    "city_id": 478
+                }
+            ],
+            "weight": 150800,
+            "region3_city_id": 150800,
+            "shortname": null,
+            "city_id": 478
+        },
+        {
+            "extend": "wulanchabu",
+            "city_name": "乌兰察布",
+            "province_id": 471,
+            "towns": [
+                {
+                    "province_id": 471,
+                    "town_id": 150902,
+                    "town_name": "集宁区",
+                    "weight": 150902,
+                    "shortname": null,
+                    "city_id": 474
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150921,
+                    "town_name": "卓资县",
+                    "weight": 150921,
+                    "shortname": null,
+                    "city_id": 474
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150922,
+                    "town_name": "化德县",
+                    "weight": 150922,
+                    "shortname": null,
+                    "city_id": 474
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150923,
+                    "town_name": "商都县",
+                    "weight": 150923,
+                    "shortname": null,
+                    "city_id": 474
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150924,
+                    "town_name": "兴和县",
+                    "weight": 150924,
+                    "shortname": null,
+                    "city_id": 474
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150925,
+                    "town_name": "凉城县",
+                    "weight": 150925,
+                    "shortname": null,
+                    "city_id": 474
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150926,
+                    "town_name": "察哈尔右翼前旗",
+                    "weight": 150926,
+                    "shortname": null,
+                    "city_id": 474
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150927,
+                    "town_name": "察哈尔右翼中旗",
+                    "weight": 150927,
+                    "shortname": null,
+                    "city_id": 474
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150928,
+                    "town_name": "察哈尔右翼后旗",
+                    "weight": 150928,
+                    "shortname": null,
+                    "city_id": 474
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150929,
+                    "town_name": "四子王旗",
+                    "weight": 150929,
+                    "shortname": null,
+                    "city_id": 474
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 150981,
+                    "town_name": "丰镇市",
+                    "weight": 150981,
+                    "shortname": null,
+                    "city_id": 474
+                }
+            ],
+            "weight": 150900,
+            "region3_city_id": 150900,
+            "shortname": null,
+            "city_id": 474
+        },
+        {
+            "extend": "xinganmeng",
+            "city_name": "兴安盟",
+            "province_id": 471,
+            "towns": [
+                {
+                    "province_id": 471,
+                    "town_id": 152201,
+                    "town_name": "乌兰浩特市",
+                    "weight": 152201,
+                    "shortname": null,
+                    "city_id": 482
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 152202,
+                    "town_name": "阿尔山市",
+                    "weight": 152202,
+                    "shortname": null,
+                    "city_id": 482
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 152221,
+                    "town_name": "科尔沁右翼前旗",
+                    "weight": 152221,
+                    "shortname": null,
+                    "city_id": 482
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 152222,
+                    "town_name": "科尔沁右翼中旗",
+                    "weight": 152222,
+                    "shortname": null,
+                    "city_id": 482
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 152223,
+                    "town_name": "扎赉特旗",
+                    "weight": 152223,
+                    "shortname": null,
+                    "city_id": 482
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 152224,
+                    "town_name": "突泉县",
+                    "weight": 152224,
+                    "shortname": null,
+                    "city_id": 482
+                }
+            ],
+            "weight": 152200,
+            "region3_city_id": 152200,
+            "shortname": null,
+            "city_id": 482
+        },
+        {
+            "extend": "xilinguolemeng",
+            "city_name": "锡林郭勒盟",
+            "province_id": 471,
+            "towns": [
+                {
+                    "province_id": 471,
+                    "town_id": 152501,
+                    "town_name": "二连浩特市",
+                    "weight": 152501,
+                    "shortname": null,
+                    "city_id": 479
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 152502,
+                    "town_name": "锡林浩特市",
+                    "weight": 152502,
+                    "shortname": null,
+                    "city_id": 479
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 152522,
+                    "town_name": "阿巴嘎旗",
+                    "weight": 152522,
+                    "shortname": null,
+                    "city_id": 479
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 152523,
+                    "town_name": "苏尼特左旗",
+                    "weight": 152523,
+                    "shortname": null,
+                    "city_id": 479
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 152524,
+                    "town_name": "苏尼特右旗",
+                    "weight": 152524,
+                    "shortname": null,
+                    "city_id": 479
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 152525,
+                    "town_name": "东乌珠穆沁旗",
+                    "weight": 152525,
+                    "shortname": null,
+                    "city_id": 479
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 152526,
+                    "town_name": "西乌珠穆沁旗",
+                    "weight": 152526,
+                    "shortname": null,
+                    "city_id": 479
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 152527,
+                    "town_name": "太仆寺旗",
+                    "weight": 152527,
+                    "shortname": null,
+                    "city_id": 479
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 152528,
+                    "town_name": "镶黄旗",
+                    "weight": 152528,
+                    "shortname": null,
+                    "city_id": 479
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 152529,
+                    "town_name": "正镶白旗",
+                    "weight": 152529,
+                    "shortname": null,
+                    "city_id": 479
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 152530,
+                    "town_name": "正蓝旗",
+                    "weight": 152530,
+                    "shortname": null,
+                    "city_id": 479
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 152531,
+                    "town_name": "多伦县",
+                    "weight": 152531,
+                    "shortname": null,
+                    "city_id": 479
+                }
+            ],
+            "weight": 152500,
+            "region3_city_id": 152500,
+            "shortname": null,
+            "city_id": 479
+        },
+        {
+            "extend": "alashanmeng",
+            "city_name": "阿拉善盟",
+            "province_id": 471,
+            "towns": [
+                {
+                    "province_id": 471,
+                    "town_id": 152921,
+                    "town_name": "阿拉善左旗",
+                    "weight": 152921,
+                    "shortname": null,
+                    "city_id": 483
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 152922,
+                    "town_name": "阿拉善右旗",
+                    "weight": 152922,
+                    "shortname": null,
+                    "city_id": 483
+                },
+                {
+                    "province_id": 471,
+                    "town_id": 152923,
+                    "town_name": "额济纳旗",
+                    "weight": 152923,
+                    "shortname": null,
+                    "city_id": 483
+                }
+            ],
+            "weight": 152900,
+            "region3_city_id": 152900,
+            "shortname": null,
+            "city_id": 483
+        }
+    ]
+}
